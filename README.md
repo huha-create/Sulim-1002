@@ -1,4 +1,4 @@
-#profile-title: 𝐒𝐮𝐥𝐢𝐦 𝐕𝐏𝐍🎖️
+#profile-title: 𝐒𝐮𝐥𝐢𝐦 𝐕𝐏𝐍 💎
 
 #profile-update-interval: 1
 
