@@ -2,7 +2,7 @@
 
 #profile-update-interval: 1
 
-#profile-subscription-url: https://raw.githubusercontent.com/huha-create/Sulim-1000/main/README.md
+#profile-subscription-url: https://raw.githubusercontent.com/huha-create/Sulim-1002/main/README.md
 
 #support-url:https://wa.me/79639864491
 
