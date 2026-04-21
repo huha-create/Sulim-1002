@@ -57,6 +57,9 @@ vless://aed996ff-eca0-4d4a-b2f3-01362ec4d48d@72.56.245.52:2443?type=tcp&headerTy
 
 vless://aed996ff-eca0-4d4a-b2f3-01362ec4d48d@193.188.23.65:2443?type=tcp&headerType=none&security=reality&fp=chrome&sni=yandex.ru&pbk=NGXEKZXsnI0yWLAG4Qj6XKSVkDpqN_UaKsW5yJPMBUc#🇷🇺 Резерв 🔗4
 
+vless://aed996ff-eca0-4d4a-b2f3-01362ec4d48d@72.56.245.52:443?type=tcp&headerType=none&security=reality&fp=chrome&sni=yandex.ru&pbk=d3ir4w1ShM7w1zxcBAnFp9Kiy1tKJvtrlRXffsWZq0k#🇷🇺 Резерв 🔗5
+
+
 
 vless://cff47c9e-a16d-4ff5-97de-650bb23327ec@ru01.myxavpn.com:443?security=reality&encryption=none&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru01.myxavpn.com&sid=d67ec5a8fc40ebea#🇬🇧 Антизаглушка №1
 vless://cff47c9e-a16d-4ff5-97de-650bb23327ec@ru03.myxavpn.com:443?security=reality&encryption=none&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru03.myxavpn.com&sid=d67ec5a8fc40ebea#🇬🇧 Антизаглушка №2
