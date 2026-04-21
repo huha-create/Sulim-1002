@@ -32,6 +32,15 @@
 
 #announce:Если VРN не работает , обновите подписку. Перепродажу и распространение ключа делаю Харамом ‼️
 
+vless://aed996ff-eca0-4d4a-b2f3-01362ec4d48d@72.56.240.250:443?type=tcp&headerType=none&security=reality&fp=chrome&sni=yandex.ru&pbk=KMAmRoQkjpCzO2Tbpvh6-UAeW0hKLEQr230y02-_3iw&sid=b8960f8a008648c1#🇷🇺 Основа
+
+vless://aed996ff-eca0-4d4a-b2f3-01362ec4d48d@193.188.23.65:443?type=tcp&headerType=none&security=reality&fp=chrome&sni=yandex.ru&pbk=KIRFKsdto8opnbRdEcTtsc3m-mTwW9L_Gnk5DSwrWx0&sid=b8960f8a008648c1#🇷🇺 Резерв 🔗1
+
+vless://aed996ff-eca0-4d4a-b2f3-01362ec4d48d@72.56.240.250:2443?type=tcp&headerType=none&security=reality&fp=chrome&sni=yandex.ru&pbk=NGXEKZXsnI0yWLAG4Qj6XKSVkDpqN_UaKsW5yJPMBUc#🇷🇺 Резерв 🔗2
+
+vless://aed996ff-eca0-4d4a-b2f3-01362ec4d48d@72.56.245.52:2443?type=tcp&headerType=none&security=reality&fp=chrome&sni=yandex.ru&pbk=NGXEKZXsnI0yWLAG4Qj6XKSVkDpqN_UaKsW5yJPMBUc#🇷🇺 Резерв 🔗3
+
+vless://aed996ff-eca0-4d4a-b2f3-01362ec4d48d@193.188.23.65:2443?type=tcp&headerType=none&security=reality&fp=chrome&sni=yandex.ru&pbk=NGXEKZXsnI0yWLAG4Qj6XKSVkDpqN_UaKsW5yJPMBUc#🇷🇺 Резерв 🔗4
 
 
 vless://f9348c30-8a34-40bc-ae15-e938235b9a6b@5.188.114.44:443?mode=multi&security=reality&encryption=none&pbk=h6gpE3mCwKFwTx7nn_hAtAIF1pHFIuXWdNVyYrokqkI&fp=firefox&spx=%2F1f630fecd5eceade&type=grpc&sni=max.ru&sid=dcbaae96dfd126d0#🇩🇪 Антизаглушка №1
