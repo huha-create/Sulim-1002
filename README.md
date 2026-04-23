@@ -61,9 +61,10 @@ vless://aed996ff-eca0-4d4a-b2f3-01362ec4d48d@72.56.245.52:443?type=tcp&headerTyp
 
 
 
-vless://c756957f-a4dd-4baf-b373-8afc2c9e18dc@ru01.myxavpn.com:443?security=reality&encryption=none&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru01.myxavpn.com&sid=d67ec5a8fc40ebea#%F0%9F%87%AC%F0%9F%87%A7%20%D0%90%D0%BD%D1%82%D0%B8%D0%B7%D0%B0%D0%B3%D0%BB%D1%83%D1%88%D0%BA%D0%B0%20%E2%84%961
-vless://c756957f-a4dd-4baf-b373-8afc2c9e18dc@ru03.myxavpn.com:443?security=reality&encryption=none&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru03.myxavpn.com&sid=d67ec5a8fc40ebea#%F0%9F%87%AC%F0%9F%87%A7%20%D0%90%D0%BD%D1%82%D0%B8%D0%B7%D0%B0%D0%B3%D0%BB%D1%83%D1%88%D0%BA%D0%B0%20%E2%84%962
-vless://c756957f-a4dd-4baf-b373-8afc2c9e18dc@ru08.myxavpn.com:443?security=reality&encryption=none&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru08.myxavpn.com&sid=d67ec5a8fc40ebea#%F0%9F%87%AC%F0%9F%87%A7%20%D0%90%D0%BD%D1%82%D0%B8%D0%B7%D0%B0%D0%B3%D0%BB%D1%83%D1%88%D0%BA%D0%B0%20%E2%84%963
+vless://4c6739d7-3606-4c58-9fba-0f8084fc9e42@ru01.myxavpn.com:443?security=reality&encryption=none&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru01.myxavpn.com&sid=d67ec5a8fc40ebea#%F0%9F%87%AC%F0%9F%87%A7%20%D0%90%D0%BD%D1%82%D0%B8%D0%B7%D0%B0%D0%B3%D0%BB%D1%83%D1%88%D0%BA%D0%B0%20%E2%84%961
+vless://4c6739d7-3606-4c58-9fba-0f8084fc9e42@ru03.myxavpn.com:443?security=reality&encryption=none&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru03.myxavpn.com&sid=d67ec5a8fc40ebea#%F0%9F%87%AC%F0%9F%87%A7%20%D0%90%D0%BD%D1%82%D0%B8%D0%B7%D0%B0%D0%B3%D0%BB%D1%83%D1%88%D0%BA%D0%B0%20%E2%84%962
+vless://4c6739d7-3606-4c58-9fba-0f8084fc9e42@ru08.myxavpn.com:443?security=reality&encryption=none&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru08.myxavpn.com&sid=d67ec5a8fc40ebea#%F0%9F%87%AC%F0%9F%87%A7%20%D0%90%D0%BD%D1%82%D0%B8%D0%B7%D0%B0%D0%B3%D0%BB%D1%83%D1%88%D0%BA%D0%B0%20%E2%84%963
+
 
 vless://d8dc8088-8ada-40b6-b0d9-fcc99aed3ecf@51.250.3.32:4443?security=reality&encryption=none&pbk=EpaXq8cW5qX1z0ToZYNDGhhI8sq5Wy8pWvr9MM39gUk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kinopoisk.ru&sid=abcd1234#🇳🇱 Антизаглушка №9
 vless://d8dc8088-8ada-40b6-b0d9-fcc99aed3ecf@158.160.135.123:443?security=reality&encryption=none&pbk=EpaXq8cW5qX1z0ToZYNDGhhI8sq5Wy8pWvr9MM39gUk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=a1b2c3d4#🇳🇱 Антизаглушка №10
