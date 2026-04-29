@@ -6,7 +6,7 @@
 #support-url: https://wa.me/79639864491
 #profile-web-page-url: https://wa.me/79639864491
 happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
-
+vless://e77535c8-f896-4f69-acd0-91484e94957f@nt2.kavkaz-market.tech:443?security=reality&encryption=none&echfq=none&pbk=rh2IgXc0vtXZ3euLtMP8RUlnmBc_4ftYBuL5Z0udk2A&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#%F0%9F%87%B3%F0%9F%87%B1+%D0%91%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9+%E2%9A%A1
 vless://aed996ff-eca0-4d4a-b2f3-01362ec4d48d@138.124.26.159:443?security=reality&encryption=none&pbk=GFe2pwkZh7WJbyZuFpFH68G4AOjvfl_xZANcXU2zZio&headerType=none&fp=chrome&type=tcp&sni=yandex.ru#%F0%9F%87%B8%F0%9F%87%AA%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9%20%E2%9A%A1
 vless://aed996ff-eca0-4d4a-b2f3-01362ec4d48d@77.110.103.104:443?security=reality&encryption=none&pbk=ET27w-6nMRvINVTLG8suQqEOT_f2BhrXGCI1USpN9AM&headerType=none&fp=chrome&type=tcp&sni=yandex.ru#%F0%9F%87%B3%F0%9F%87%B1%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%20%F0%9F%94%97
 vless://aed996ff-eca0-4d4a-b2f3-01362ec4d48d@147.45.42.81:443?security=reality&encryption=none&pbk=_WD_e6T5Svn6DQx8qO4HGrnqTvsTPImDA__pEBiyaQ0&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=b8960f8a008648c1#%F0%9F%87%AB%F0%9F%87%B7%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%20%F0%9F%94%97
