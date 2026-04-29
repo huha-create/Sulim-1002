@@ -1,4 +1,4 @@
-name: Anti-Zaglushka Smart Sync 222 TOTAL CLEAN
+name: Anti-Zaglushka Smart Sync 100
 
 on:
   schedule:
@@ -13,97 +13,59 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Fetch, Ping and Notify
+      - name: Fetch and Merge
         env:
           TG_TOKEN: ${{ secrets.TG_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
         run: |
           # 1. Настройки
-          SOURCES=(
-            "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt"
-            "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile-2.txt"
-          )
+          SOURCE="https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/WHITE-SNI-RU-all.txt"
           FLAGS=("🇺🇸" "🇩🇪" "🇫🇮" "🇵🇱" "🇳🇱" "🇬🇧" "🇫🇷" "🇰🇿" "🇹🇷" "🇸🇪" "🇦🇹" "🇨🇿")
-          LIMIT=222
+          LIMIT=100
 
-          # 2. Сохраняем твои VIP (те, что без значка № и без фразы "Антизаглушка")
+          # 2. Сохраняем твои текущие сервера (VIP)
           touch README.md
-          grep "://" README.md | grep -v "№" | grep -v "Антизаглушка" > my_own_keys.txt || touch my_own_keys.txt
-          
-          # Берем список текущих URL из источников (чтобы не дублировать)
-          grep "ОБХОД БЛОКИРОВКИ" README.md | cut -d'#' -f1 > existing_urls.txt
+          grep -E "^(vless|vmess|ss|trojan)://" README.md | grep -v "Антизаглушка" > my_vip.txt || touch my_vip.txt
 
-          # 3. Сбор и проверка НОВЫХ ключей
-          > new_keys.txt
-          NEW_ADDED=0
-          for url in "${SOURCES[@]}"; do
-            curl -L -s "$url" -o temp.txt
-            grep "://" temp.txt > raw_temp.txt || cp temp.txt raw_temp.txt
+          # 3. Скачиваем новые ключи
+          curl -L -s "$SOURCE" -o incoming.txt
+          grep -E "^(vless|vmess|ss|trojan)://" incoming.txt | cut -d'#' -f1 | head -n $LIMIT > source_cleaned.txt
 
-            while IFS= read -r line; do
-              CLEAN_URL=$(echo "$line" | cut -d'#' -f1)
-              if [[ $CLEAN_URL =~ ^(vless|vmess|trojan|ss):// ]] && ! grep -q "$CLEAN_URL" existing_urls.txt; then
-                HOST=$(echo "$CLEAN_URL" | sed -e 's/.*@//' -e 's/:.*//' -e 's/\/.*//')
-                PORT=$(echo "$CLEAN_URL" | sed -e 's/.*://' -e 's/[?#\/].*//')
-                if timeout 1.2s bash -c "true &>/dev/null > /dev/tcp/$HOST/$PORT" 2>/dev/null; then
-                  RANDOM_FLAG=${FLAGS[$RANDOM % ${#FLAGS[@]}]}
-                  echo "${CLEAN_URL}#${RANDOM_FLAG} Антизаглушка 🚀" >> new_keys.txt
-                  NEW_ADDED=$((NEW_ADDED + 1))
-                  echo "$CLEAN_URL" >> existing_urls.txt
-                fi
-              fi
-            done < raw_temp.txt
-          done
-
-          # 4. Формируем список серверов из источников
-          grep "ОБХОД БЛОКИРОВКИ" README.md > current_source_keys.txt || touch current_source_keys.txt
-          cat new_keys.txt >> current_source_keys.txt
-          
-          # 5. Очистка до лимита
-          TOTAL_BEFORE=$(wc -l < current_source_keys.txt)
-          REMOVED=0
-          if [ "$TOTAL_BEFORE" -gt "$LIMIT" ]; then
-             REMOVED=$((TOTAL_BEFORE - LIMIT))
-             tail -n "$LIMIT" current_source_keys.txt > cleaned_source_keys.txt
-          else
-             cp current_source_keys.txt cleaned_source_keys.txt
-          fi
-
-          # 6. ПОЛНАЯ ПЕРЕЗАПИСЬ README.md (удаляем всё старое)
-          TRAFFIC_LINE=$(grep "#subscription-userinfo" README.md | head -n 1 || echo "#subscription-userinfo: upload=0; download=0; total=1125899906842624; expire=3803572800")
-          echo "$TRAFFIC_LINE" > README.md
-          echo "#profile-title: Sulim vpn 🏎️ " >> README.md
+          # 4. Собираем новый README.md с твоими данными
+          echo "#subscription-userinfo: upload=1; download=1; total=1; expire=999999999999999" > README.md
+          echo "#profile-title: Sulim vpn 🏎️" >> README.md
           echo "#profile-update-interval: 1" >> README.md
           echo "#subscription-update-interval: 1" >> README.md
           echo "#announce: Если VPN не работает нажмите 🔄 , после ⏱️ и выберите сервер с наименьшим показателем ms!" >> README.md
+          echo "#support-url: https://wa.me/79639864491" >> README.md
+          echo "#profile-web-page-url: https://wa.me/79639864491" >> README.md
           echo "happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN" >> README.md
           echo "" >> README.md
-          
-          # Сначала вставляем твои VIP (Основной, Запасной и т.д.)
-          cat my_own_keys.txt >> README.md
-          
-          # Затем вставляем 222 сервера с чистой нумерацией
+
+          # Вставляем твои VIP сервера
+          cat my_vip.txt >> README.md
+
+          # Вставляем 100 новых серверов
           IDX=1
           while IFS= read -r line; do
-             CLEAN_LINE=$(echo "$line" | sed 's/ №[0-9]*//g')
-             echo "${CLEAN_LINE} №$IDX" >> README.md
-             IDX=$((IDX + 1))
-          done < cleaned_source_keys.txt
+            RANDOM_FLAG=${FLAGS[$RANDOM % ${#FLAGS[@]}]}
+            echo "${line}#${RANDOM_FLAG} Антизаглушка ⚔️ №$IDX" >> README.md
+            IDX=$((IDX + 1))
+          done < source_cleaned.txt
 
-          # 7. Отчет в Telegram
-          TOTAL_FINAL=$(( $(wc -l < my_own_keys.txt) + $(wc -l < cleaned_source_keys.txt) ))
-          MSG="🚀 *АНТИЗАГЛУШКА*%0A%0A✅ Добавлено новых: *$NEW_ADDED*%0A🧹 Очищено старых: *$REMOVED*%0A📊 Всего в списке: *$TOTAL_FINAL*%0A🕒 Время: $(date +'%H:%M')"
-          
-          curl -s -X POST "https://api.telegram.org/bot$TG_TOKEN/sendMessage" \
-            -d "chat_id=$TG_CHAT_ID" \
-            -d "parse_mode=Markdown" \
-            -d "text=$MSG"
+          # 5. Отчет в Telegram
+          if [[ -n "$TG_TOKEN" ]]; then
+            TOTAL=$(grep -c "://" README.md)
+            MSG="⚔️ *АНТИЗАГЛУШКА ОБНОВЛЕНА*%0A%0A📊 Всего серверов: *$TOTAL*%0A🕒 Время: $(date +'%H:%M')"
+            curl -s -X POST "https://api.telegram.org/bot$TG_TOKEN/sendMessage" -d "chat_id=$TG_CHAT_ID" -d "parse_mode=Markdown" -d "text=$MSG"
+          fi
 
       - name: Commit and Push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "Github Action"
           git add README.md
-          git commit -m "Total Clean: Limit 222 enforced" || exit 0
+          git commit -m "Updated with support links and 100 keys ⚔️" || exit 0
           git push origin main
+
           
