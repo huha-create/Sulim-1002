@@ -1,8 +1,8 @@
-name: Anti-Zaglushka Smart Sync 100
+name: Anti-Zaglushka Smart Sync 111
 
 on:
   schedule:
-    - cron: "0 */1 * * *" 
+    - cron: "0 */1 * * *"
   workflow_dispatch:
 
 jobs:
@@ -19,9 +19,9 @@ jobs:
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
         run: |
           # 1. Настройки
-          SOURCE="https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/WHITE-SNI-RU-all.txt"
+          SOURCE="https://raw.githubusercontent.com/zieng2/wl/main/vless_lite.txt"
           FLAGS=("🇺🇸" "🇩🇪" "🇫🇮" "🇵🇱" "🇳🇱" "🇬🇧" "🇫🇷" "🇰🇿" "🇹🇷" "🇸🇪" "🇦🇹" "🇨🇿")
-          LIMIT=100
+          LIMIT=111
 
           # 2. Сохраняем твои текущие сервера (VIP)
           touch README.md
@@ -45,11 +45,11 @@ jobs:
           # Вставляем твои VIP сервера
           cat my_vip.txt >> README.md
 
-          # Вставляем 100 новых серверов
+          # Вставляем 111 новых серверов
           IDX=1
           while IFS= read -r line; do
             RANDOM_FLAG=${FLAGS[$RANDOM % ${#FLAGS[@]}]}
-            echo "${line}#${RANDOM_FLAG} Антизаглушка ⚔️ №$IDX" >> README.md
+            echo "${line}#${RANDOM_FLAG} anti-hwb 🔗 $IDX" >> README.md
             IDX=$((IDX + 1))
           done < source_cleaned.txt
 
@@ -65,7 +65,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "Github Action"
           git add README.md
-          git commit -m "Updated with support links and 100 keys ⚔️" || exit 0
+          git commit -m "Updated with support links and 111 keys ⚔️" || exit 0
           git push origin main
-
-          
