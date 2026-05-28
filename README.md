@@ -34,4 +34,8 @@ vless://b7a51123-f7d0-4bdc-ba10-971afa6069b8@46.8.209.123:443?type=grpc&mode=gun
 
 vless://b7a51123-f7d0-4bdc-ba10-971afa6069b8@46.8.209.122:443?type=grpc&mode=gun&serviceName=&security=reality&fp=chrome&sni=alpha4.minigames.mail.ru&pbk=7oymTopNbHUmyJSSmJDVgb7E0usD7nhzaV35tKBHWgg&sid=9078b8e380e60ac8#🇪🇺 LTE | Глушилка ⚡️ 15
 
-vless://b7a51123-f7d0-4bdc-ba10-971afa6069b8@84.201.174.25:443?type=grpc&mode=gun&serviceName=&security=reality&fp=chrome&sni=jump.x5.ru&pbk=dF9CDDUffnzSv4opnPvxNtV7YxGYLWE79YltK98uzgE#🇪🇺 LTE | Глуушилка ⚡️ 16
+vless://b7a51123-f7d0-4bdc-ba10-971afa6069b8@84.201.174.25:443?type=grpc&mode=gun&serviceName=&security=reality&fp=chrome&sni=jump.x5.ru&pbk=dF9CDDUffnzSv4opnPvxNtV7YxGYLWE79YltK98uzgE#🇪🇺 LTE | Глушилка ⚡️ 16
+
+vless://8430685f-c46a-48e3-a0b8-0cde63e10aa0@v3.filesdownloader.ru:6784?type=xhttp&host=vk.com&path=/&mode=auto&security=reality&fp=firefox&sni=vk.com&pbk=LRAFOiJmqIVMJu9pr1LG4WnaWHJHDtT-vnTHL9iFT3M&sid=578fe8&spx=/#🇷🇺 LTE | Глушилка ⚡️ 17
+
+vless://d012db8a-d0a3-444f-8b21-a9546767c862@video.filesdownloader.ru:8080?type=xhttp&host=vk.com&path=/&mode=auto&security=reality&fp=chrome&sni=vk.com&pbk=ty2CY09soiv_VQ1Ym3E-LZO_xMxuJ0LwyXE-SW067jk&sid=09b21485a3&spx=/#🇷🇺 LTE | Глушилка ⚡️18
