@@ -11,11 +11,11 @@ happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
 
 
 
-vless://abef4e1f-5010-41d3-9561-e5d1e0f8ac7f@194.238.79.150.fwqfw783rg2dad.website:443?encryption=none&security=tls&sni=194.238.79.150.fwqfw783rg2dad.website&fp=edge&alpn=h2&type=ws&path=%2Fsequre%2Fws%3Fed%3D2560&host=#🇩🇪%20Основной%20💎
+vless://0d287747-b7be-4ba7-9b98-5bbd9dfa385c@disk.api-yandex.net:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=smartcaptcha.yandexcloud.net&pbk=PgX84qtBx_4KC6dhG04qkyH197de4Wr1HrN7c2vJVxc&sid=0f4daaf08752e15f#🇩🇪%20Основной%20💎
 
-vless://abef4e1f-5010-41d3-9561-e5d1e0f8ac7f@194.238.79.150.fwqfw783rg2dad.website:443?encryption=none&security=tls&sni=194.238.79.150.fwqfw783rg2dad.website&fp=edge&alpn=h2&type=ws&path=%2Fsequre%2Fws%3Fed%3D2560&host=#🇳🇱%20Запасной%20🔄
+vless://0d287747-b7be-4ba7-9b98-5bbd9dfa385c@maps.api-yandex.net:2777?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ads.x5.ru&pbk=HyxhIAJ1VbVX77n76vXAps81yWRVbKCr8AC_71sM5Ao&sid=0f4dacf08722a29f#🇳🇱%20Запасной%20🔄
 
-vless://abef4e1f-5010-5452-9561-e5d1e0f8ac7f@194.58.41.88.fwqfw783rg2dad.website:443?encryption=none&security=tls&sni=194.58.41.88.fwqfw783rg2dad.website&fp=chrome&alpn=h2&type=ws&path=%2Fsequre%2Fws%3Fed%3D2560#🇹🇷%20Запасной%20🛡️
+vless://d7efb8d0-2aa4-480e-97f7-aa765c8b80e6@31.76.93.70:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=yandex.ru&pbk=rh2IgXc0vtXZ3euLtMP8RUlnmBc_4ftYBuL5Z0udk2A#🇹🇷%20Запасной%20🛡️
 
 vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMS00MTEubWlycmEubm93IiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6InJlbmRlcmVyLXN0cmVhbS0xLTQxMS5taXJyYS5ub3ciLCJpZCI6ImRmOWM5MzU1LWIwMmMtNGMxMi05MDlkLTBkYmViNzI1ZDUyYiIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6InJlbmRlcmVyLXN0cmVhbS0xLTQxMS5taXJyYS5ub3ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IvCfh7fwn4e6IExURSB8INCT0LvRg9GI0LjQu9C60LAg4pqh77iPIDEifQ==
 vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMS00MTEubWlycmEubm93IiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6InJlbmRlcmVyLXN0cmVhbS0xLTQxMS5taXJyYS5ub3ciLCJpZCI6ImRmOWM5MzU1LWIwMmMtNGMxMi05MDlkLTBkYmViNzI1ZDUyYiIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6InJlbmRlcmVyLXN0cmVhbS0xLTQxMS5taXJyYS5ub3ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IvCfh7fwn4e6IExURSB8INCT0LvRg9GI0LjQu9C60LAg4pqh77iPIDIifQ==
