@@ -56,8 +56,11 @@ vless://304bc7da-8284-4538-97df-808629245cf9@178.159.94.233:443?security=reality
 vless://304bc7da-8284-4538-97df-808629245cf9@82.117.87.209:443?security=reality&encryption=none&pbk=S1LRZAgMS-bfA8rNXovBB8HA-mQR9eJPa5h-Z9dH9g8&headerType=none&fp=chrome&type=tcp&sni=cdn.kwork.com&sid=d2fa1ca2a4bb7d53#🇳🇱 LTE | Глушилка ⚡️ 23
 vless://304bc7da-8284-4538-97df-808629245cf9@89.169.47.3:443?security=reality&encryption=none&pbk=S1LRZAgMS-bfA8rNXovBB8HA-mQR9eJPa5h-Z9dH9g8&headerType=none&fp=chrome&type=tcp&sni=cdn.kwork.com&sid=d2fa1ca2a4bb7d53#🇳🇱 LTE | Глушилка ⚡️ 24
 vless://304bc7da-8284-4538-97df-808629245cf9@62.113.41.105:443?security=reality&encryption=none&pbk=S1LRZAgMS-bfA8rNXovBB8HA-mQR9eJPa5h-Z9dH9g8&headerType=none&fp=chrome&type=tcp&sni=cdn.kwork.com&sid=d2fa1ca2a4bb7d53#🇳🇱 LTE | Глушилка ⚡️ 25
-vless://304bc7da-8284-4538-97df-808629245cf9@45.151.183.81:443?security=reality&encryption=none&pbk=v8ayGgqImt5e8beMrMNCyM-NGeUdfqRfQrdfDYiqYjA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.kwork.com&sid=f18d7fa68a01#🇨 LTE | Глушилка ⚡️ 26
+vless://304bc7da-8284-4538-97df-808629245cf9@45.151.183.81:443?security=reality&encryption=none&pbk=v8ayGgqImt5e8beMrMNCyM-NGeUdfqRfQrdfDYiqYjA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.kwork.com&sid=f18d7fa68a01# LTE | Глушилка ⚡️ 26
 
+vless://f249df75-02df-42d0-99a6-86be20184842@top2498670894.mwscdn.ru:443?type=xhttp&host=top2498670894.mwscdn.ru&path=/xhttppath&mode=auto&security=tls&sni=top2498670894.mwscdn.ru&fp=chrome&allowInsecure=0#🇷🇺 LTE | Глушилка ⚡️
+
+vless://f249df75-02df-42d0-99a6-86be20184842@top2512900946.mwscdn.ru:443?type=xhttp&host=top2512900946.mwscdn.ru&path=/xhttppath&mode=auto&security=tls&sni=top2512900946.mwscdn.ru&fp=chrome&allowInsecure=0#🇷🇺 LTE | Глушилка ⚡️
 
 
 
