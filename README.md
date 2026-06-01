@@ -59,23 +59,3 @@ vless://f249df75-02df-42d0-99a6-86be20184842@top2498670894.mwscdn.ru:443?type=xh
 
 vless://f249df75-02df-42d0-99a6-86be20184842@top2512900946.mwscdn.ru:443?type=xhttp&host=top2512900946.mwscdn.ru&path=/xhttppath&mode=auto&security=tls&sni=top2512900946.mwscdn.ru&fp=chrome&allowInsecure=0#🇷🇺 LTE | Глушилка ⚡️
 
-vless://53105375-12bb-4deb-8667-6006a9e83829@46.8.209.123:443?type=grpc&mode=gun&serviceName=&security=reality&fp=chrome&sni=ads.x5.ru&pbk=Zl74vs1BxyTNhsKhXA5hMLtNld4owSlSIPLwFOn90nc&sid=9078b6e380e60ac7#🇪🇺 LTE | Глушилка ⚡️
-
-vless://53105375-12bb-4deb-8667-6006a9e83829@46.8.209.122:443?type=grpc&mode=gun&serviceName=&security=reality&fp=chrome&sni=alpha4.minigames.mail.ru&pbk=7oymTopNbHUmyJSSmJDVgb7E0usD7nhzaV35tKBHWgg&sid=9078b8e380e60ac8#🇪🇺 LTE | Глушилка ⚡️
-
-vless://992830d2-6d30-42ad-885f-a50b3889cfc2@46.8.209.123:443?type=grpc&mode=gun&serviceName=&security=reality&fp=chrome&sni=ads.x5.ru&pbk=Zl74vs1BxyTNhsKhXA5hMLtNld4owSlSIPLwFOn90nc&sid=9078b6e380e60ac7#🇪🇺 LTE | Глушилка ⚡️
-
-vless://992830d2-6d30-42ad-885f-a50b3889cfc2@46.8.209.122:443?type=grpc&mode=gun&serviceName=&security=reality&fp=chrome&sni=alpha4.minigames.mail.ru&pbk=7oymTopNbHUmyJSSmJDVgb7E0usD7nhzaV35tKBHWgg&sid=9078b8e380e60ac8#🇪🇺 LTE | Глушилка ⚡️
-
-vless://992830d2-6d30-42ad-885f-a50b3889cfc2@84.201.174.25:443?type=grpc&mode=gun&serviceName=&security=reality&fp=chrome&sni=jump.x5.ru&pbk=dF9CDDUffnzSv4opnPvxNtV7YxGYLWE79YltK98uzgE#🇪🇺 LTE | Глушилка ⚡️
-
-vless://06b356ed-4716-4eeb-b330-865d939fae50@84.201.139.67:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=ads.x5.ru&pbk=uYdYVZk9icFIvfd8eKHYHiULohrTdIHl2J8ktn7uTUU&sid=9db07670a7b491cb#🇪🇺 LTE | Глушилка ⚡️
-
-vless://06b356ed-4716-4eeb-b330-865d939fae50@84.201.139.67:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=ads.x5.ru&pbk=uYdYVZk9icFIvfd8eKHYHiULohrTdIHl2J8ktn7uTUU&sid=9db07670a7b491cb#🇪🇺 LTE | Глушилка ⚡️
-
-vless://ad29d3d2-1216-41a6-b36f-f4c4e7854311@84.201.139.67:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=ads.x5.ru&pbk=uYdYVZk9icFIvfd8eKHYHiULohrTdIHl2J8ktn7uTUU&sid=9db07670a7b491cb#🇪🇺 LTE | Глушилка ⚡️
-
-
-
-vless://8430685f-c46a-48e3-a0b8-0cde63e10aa0@v3.filesdownloader.ru:6784?type=xhttp&host=vk.com&path=/&mode=auto&security=reality&fp=firefox&sni=vk.com&pbk=LRAFOiJmqIVMJu9pr1LG4WnaWHJHDtT-vnTHL9iFT3M&sid=578fe8&spx=/#🇷🇺 LTE | Глушилка ⚡️ 48
-
