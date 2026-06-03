@@ -7,19 +7,7 @@
 #profile-web-page-url: https://wa.me/79639864491
 happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
 
-vless://8d3318ea-8d24-4d5f-99d6-fd779d738e3c@88.210.12.204:8090?path=%2Fws&security=none&encryption=none&type=ws#%F0%9F%87%AA%F0%9F%87%BA%20%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%201
-vless://8d3318ea-8d24-4d5f-99d6-fd779d738e3c@89.124.115.184:8090?path=%2Fws&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%202
-vless://8d3318ea-8d24-4d5f-99d6-fd779d738e3c@88.210.12.204:8090?path=%2Fws&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%203
-vless://8d3318ea-8d24-4d5f-99d6-fd779d738e3c@88.210.12.204:8090?path=%2Fws&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%204
-vless://8d3318ea-8d24-4d5f-99d6-fd779d738e3c@95.85.253.57:443?security=reality&encryption=none&pbk=rh2IgXc0vtXZ3euLtMP8RUlnmBc_4ftYBuL5Z0udk2A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru#%F0%9F%87%B5%F0%9F%87%B1%20%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%205
-vless://8d3318ea-8d24-4d5f-99d6-fd779d738e3c@88.210.12.204:8090?path=%2Fws&security=none&encryption=none&type=ws#%F0%9F%87%A8%F0%9F%87%AD%20%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%206
-vless://8d3318ea-8d24-4d5f-99d6-fd779d738e3c@88.210.12.204:8090?path=%2Fws&security=none&encryption=none&type=ws#%F0%9F%87%A8%F0%9F%87%AD%20%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%207
-vless://8d3318ea-8d24-4d5f-99d6-fd779d738e3c@89.124.115.184:8090?path=%2Fws&security=none&encryption=none&type=ws#%F0%9F%87%A8%F0%9F%87%AD%20%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%208
-vless://8d3318ea-8d24-4d5f-99d6-fd779d738e3c@88.210.12.204:8090?path=%2Fws&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%209
-vless://8d3318ea-8d24-4d5f-99d6-fd779d738e3c@88.210.12.204:8090?path=%2Fws&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%2010
-vless://8d3318ea-8d24-4d5f-99d6-fd779d738e3c@89.124.115.184:8090?path=%2Fws&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%2011
-vless://c5587985-ffde-4897-a7a6-d14009c868c0@89.124.118.10:443?security=reality&encryption=none&pbk=ao6HM6jT7l8F-c54woAti7flDZW0GU0thRNKYzu9kQ0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=pypi.org&sid=57cc65bfd5ef7465#%F0%9F%87%B3%F0%9F%87%B1%20%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%2012
-vless://c5587985-ffde-4897-a7a6-d14009c868c0@144.124.237.144:443?security=reality&encryption=none&pbk=ao6HM6jT7l8F-c54woAti7flDZW0GU0thRNKYzu9kQ0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=pypi.org&sid=57cc65bfd5ef7465#%F0%9F%87%B3%F0%9F%87%B1%20%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%2013
+
 vless://c5587985-ffde-4897-a7a6-d14009c868c0@89.124.117.39:443?security=reality&encryption=none&pbk=ao6HM6jT7l8F-c54woAti7flDZW0GU0thRNKYzu9kQ0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=pypi.org&sid=57cc65bfd5ef7465#%F0%9F%87%B3%F0%9F%87%B1%20%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%2014
 vless://c5587985-ffde-4897-a7a6-d14009c868c0@217.114.12.187:443?security=reality&encryption=none&pbk=olcTApVIdrdt_bsMJaLsZ-8bYR73oMNzgCZJuR_4sFA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dzen.ru&sid=7c83683ed7507a69#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%2015
 vless://c5587985-ffde-4897-a7a6-d14009c868c0@5.35.94.215:443?security=reality&encryption=none&pbk=olcTApVIdrdt_bsMJaLsZ-8bYR73oMNzgCZJuR_4sFA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dzen.ru&sid=7c83683ed7507a69#%F0%9F%87%A9%F0%9F%87%AA%20%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%2016
@@ -58,4 +46,4 @@ vless://af64233c-f406-4d9a-8639-05ab193fc5fb@91.109.201.138:443?type=grpc&mode=g
 vless://0d287747-b7be-4ba7-9b98-5bbd9dfa385c@maps.api-yandex.net:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ads.x5.ru&pbk=L9-Bva1kUloZdyX9vReDLSfUsKXulAxSL37LscocqFE&sid=0f4dacf08721e29f#🇷🇺 LTE | Глушилка 
 
 vless://0d287747-b7be-4ba7-9b98-5bbd9dfa385c@disk.api-yandex.net:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=smartcaptcha.yandexcloud.net&pbk=PgX84qtBx_4KC6dhG04qkyH197de4Wr1HrN7c2vJVxc&sid=0f4daaf08752e15f#🇷🇺 LTE | Глушилка 
-vless://24e6cde1-bcda-4f06-b79e-d409d33d729e@hole.datanode-internal.net:9443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=ads.x5.ru&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&sid=abbcd128#🇪🇺 LTE | Глушилка
+
