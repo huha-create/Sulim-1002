@@ -11,7 +11,7 @@ happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
 
 
 
-vless://304bc7da-8284-4538-97df-808629245cf9@top3848200508.mwscdn.ru:443?type=xhttp&host=&path=/&mode=auto&security=tls&sni=&fp=chrome&allowInsecure=0#🇷🇺 Основа 🚀
+vless://b1a35d29-bb83-4907-baa3-cc90f932b72c@api.yandex-cloud.org:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&security=reality&sid=122218f4c1f172e4&sni=api.yandex-cloud.org&type=tcp#🇷🇺 Основа 🚀
 
 vless://304bc7da-8284-4538-97df-808629245cf9@top496670092.mwscdn.ru:443?type=xhttp&host=&path=/&mode=auto&security=tls&sni=&fp=chrome&allowInsecure=0#🇪🇺 Стабильный ⚙️
 
