@@ -16,12 +16,7 @@ vless://304bc7da-8284-4538-97df-808629245cf9@top3848200508.mwscdn.ru:443?type=xh
 vless://304bc7da-8284-4538-97df-808629245cf9@top496670092.mwscdn.ru:443?type=xhttp&host=&path=/&mode=auto&security=tls&sni=&fp=chrome&allowInsecure=0#🇪🇺 Стабильный ⚙️
 
 
-vless://304bc7da-8284-4538-97df-808629245cf9@79.174.94.24:9443?type=tcp&headerType=none&security=reality&fp=chrome&sni=ads.x5.ru&pbk=M1tSFn_n-KePz4gg7OMVmGS8Le3RlisCycuzND0WbiY&sid=332045e65fbc5a#🇸🇽 Быстрый 📶
-vless://304bc7da-8284-4538-97df-808629245cf9@79.174.94.24:9443?type=tcp&headerType=none&security=reality&fp=chrome&sni=max.ru&pbk=M1tSFn_n-KePz4gg7OMVmGS8Le3RlisCycuzND0WbiY&sid=332045e65fbc5a#🇳🇱 Запасной 🔄
 
-vless://304bc7da-8284-4538-97df-808629245cf9@79.174.94.24:9443?type=tcp&headerType=none&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=M1tSFn_n-KePz4gg7OMVmGS8Le3RlisCycuzND0WbiY&sid=332045e65fbc5a#🇩🇪 Запасной 2🔄
-
-vless://304bc7da-8284-4538-97df-808629245cf9@79.174.94.24:9443?type=tcp&headerType=none&security=reality&fp=chrome&sni=eh.vk.com&pbk=M1tSFn_n-KePz4gg7OMVmGS8Le3RlisCycuzND0WbiY&sid=332045e65fbc5a#🇳🇱 Запасной 3🔄
 
 vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMS00MTEubWlycmEubm93IiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6InJlbmRlcmVyLXN0cmVhbS0xLTQxMS5taXJyYS5ub3ciLCJpZCI6ImRmOWM5MzU1LWIwMmMtNGMxMi05MDlkLTBkYmViNzI1ZDUyYiIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6InJlbmRlcmVyLXN0cmVhbS0xLTQxMS5taXJyYS5ub3ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IvCfh7fwn4e6IExURSB8INCT0LvRg9GI0LjQu9C60LAg4pqh77iPIDEifQ==
 vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMS00MTEubWlycmEubm93IiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6InJlbmRlcmVyLXN0cmVhbS0xLTQxMS5taXJyYS5ub3ciLCJpZCI6ImRmOWM5MzU1LWIwMmMtNGMxMi05MDlkLTBkYmViNzI1ZDUyYiIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6InJlbmRlcmVyLXN0cmVhbS0xLTQxMS5taXJyYS5ub3ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IvCfh7fwn4e6IExURSB8INCT0LvRg9GI0LjQu9C60LAg4pqh77iPIDIifQ==
