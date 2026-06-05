@@ -16,9 +16,10 @@ vless://c5587985-ffde-4897-a7a6-d14009c868c0@138.124.32.113:443?security=reality
 vless://c5587985-ffde-4897-a7a6-d14009c868c0@78.40.117.131:443?security=reality&encryption=none&pbk=Dgu9RaToLbQcM1NCf_pS3ezHj6LsBQSYu50zWs5A6Qk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ikea.com&sid=57cc65bfd5ef7465#🇦🇽 Тестирование 6
 vless://c5587985-ffde-4897-a7a6-d14009c868c0@185.212.117.34:443?security=reality&encryption=none&pbk=kXeGG51IB1GgAp5SEjVoNc-NUYNryuEBB-36uTNVAU8&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.scaleway.com&sid=57cc65bfd5ef7465#🇵🇱 Тестирование 7
 
-vless://2173b60e-5335-48fb-897e-313aee944a1d@62.152.58.86:443?encryption=none&fp=chrome&pbk=y0Daf6XqACgR39QLM9zaqZtTHix2vg19MiNrOmGeg1c&security=reality&sid=aa19486790&sni=5post-gate.x5.ru&type=grpc#🇪🇺 Глушилка тест
+vless://5d77102f-e8eb-482e-95ea-f67181c9211c@2.27.23.220:444?type=grpc&mode=gun&serviceName=webhook&security=reality&fp=firefox&sni=stackoverflow.com&pbk=C9mgbI5yczm-CNLLmQIDBU0r3Eqy0AXbS2KrvGyNhHw&sid=c8a9#
+#🇪🇺 Глушилка тест
 
-vless://2173b60e-5335-48fb-897e-313aee944a1d@31.129.42.182:443?encryption=none&fp=chrome&pbk=y0Daf6XqACgR39QLM9zaqZtTHix2vg19MiNrOmGeg1c&security=reality&sid=aa19486790&sni=5post-gate.x5.ru&type=grpc#🇪🇺 Глушилка тест
+vless://5d77102f-e8eb-482e-95ea-f67181c9211c@45.192.12.69:444?type=grpc&mode=gun&serviceName=webhook&security=reality&fp=firefox&sni=stackoverflow.com&pbk=jfuR8XeCwd81AUqCaOek_cyhySWw3StII346gcd1EQQ&sid=d1ed5b38c643d13a#🇪🇺 Глушилка тест
 
 
 
