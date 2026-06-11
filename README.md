@@ -9,7 +9,7 @@ happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
 
 
 vless://c5587985-ffde-4897-a7a6-d14009c868c0@89.124.117.39:443?security=reality&encryption=none&pbk=ao6HM6jT7l8F-c54woAti7flDZW0GU0thRNKYzu9kQ0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=pypi.org&sid=57cc65bfd5ef7465#🇳🇱 Основа 🌐
-vless://c5587985-ffde-4897-a7a6-d14009c868c0@5.35.94.215:443?security=reality&encryption=none&pbk=olcTApVIdrdt_bsMJaLsZ-8bYR73oMNzgCZJuR_4sFA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dzen.ru&sid=7c83683ed7507a69#🇳🇱 Тестирование 3
+
 vless://d47c015a-2533-450d-8485-9154a58e046a@89.124.118.10:443?security=reality&encryption=none&pbk=ao6HM6jT7l8F-c54woAti7flDZW0GU0thRNKYzu9kQ0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=pypi.org&sid=57cc65bfd5ef7465#%F0%9F%87%B1%F0%9F%87%BB%20%F0%9F%A5%80v%C2%B9
 vless://d47c015a-2533-450d-8485-9154a58e046a@144.124.237.144:443?security=reality&encryption=none&pbk=ao6HM6jT7l8F-c54woAti7flDZW0GU0thRNKYzu9kQ0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=pypi.org&sid=57cc65bfd5ef7465#%F0%9F%87%B1%F0%9F%87%BB%20%F0%9F%A5%80v%C2%BD
 vless://d47c015a-2533-450d-8485-9154a58e046a@89.124.117.39:443?security=reality&encryption=none&pbk=ao6HM6jT7l8F-c54woAti7flDZW0GU0thRNKYzu9kQ0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=pypi.org&sid=57cc65bfd5ef7465#%F0%9F%87%B1%F0%9F%87%BB%20%F0%9F%A5%80v%E2%85%93
@@ -24,7 +24,7 @@ hysteria2://ab8152b0-3f6d-4803-aeed-ae54d9d8bbaa@work.sywl2live.us:18241?insecur
 
 vless://ab8152b0-3f6d-4803-aeed-ae54d9d8bbaa@xxx3.sywl2live.us:10443?encryption=none&security=reality&sni=max.ru&fp=chrome&pbk=KONaLFa2_5efdUtXz0TDfj8DZf65Lqli1935Mr36DnU&type=grpc#🇷🇺 глушилка test
 
-vless://ab8152b0-3f6d-4803-aeed-ae54d9d8bbaa@server3.sywl2live.us:8443?encryption=none&security=tls&sni=server3.sywl2live.us&fp=chrome&alpn=h3&type=xhttp&host=server3.sywl2live.us&path=%2Fwebsoket&mode=auto#🇦🇽 глушилка test
+vless://ab8152b0-3f6d-4803-aeed-ae54d9d8bbaa@server3.sywl2live.us:8443?encryption=none&security=tls&sni=server3.sywl2live.us&fp=chrome&alpn=h3&type=xhttp&host=server3.sywl2live.us&path=%2Fwebsoket&mode=auto#🇵🇸 глушилка test
 
 
 vless://8e243b4c-6281-4b4b-b4fe-1ff5a9c63f39@hype-1.topupaxme.icu:5443?security=reality&encryption=none&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🇪🇺 Антизаглушка 1
