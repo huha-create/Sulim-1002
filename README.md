@@ -8,7 +8,7 @@
 happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
 
 
-vless://c5587985-ffde-4897-a7a6-d14009c868c0@89.124.117.39:443?security=reality&encryption=none&pbk=ao6HM6jT7l8F-c54woAti7flDZW0GU0thRNKYzu9kQ0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=pypi.org&sid=57cc65bfd5ef7465#🇳🇱 Основа 🌐
+vmess://eyJuZXQiOiJ3cyIsImZwIjoiZmlyZWZveCIsImFscG4iOiJoMiIsInYiOiIyIiwicGF0aCI6IlwvYXBpXC92MVwvZ3B1LXN0cmVhbVwvc29ja2V0Iiwic2N5IjoiYXV0byIsImVjaGZxIjoibm9uZSIsImFsbG93SW5zZWN1cmUiOjAsInBvcnQiOiI0NDMiLCJ0bHMiOiJ0bHMiLCJob3N0IjoicmVuZGVyZXItc3RyZWFtLTEtNDM1Lm1pcnJhLm5vdyIsImlkIjoiZTYyZGFjZjAtOThmOS00ZjM2LTlkN2YtMGRmOTEyZmMzOGQ3IiwicHMiOiLwn4ez8J+HsdCe0YHQvdC+0LLQsCDwn5O2IiwiYWRkIjoicmVuZGVyZXItc3RyZWFtLTEtNDM1Lm1pcnJhLm5vdyIsInNuaSI6InJlbmRlcmVyLXN0cmVhbS0xLTQzNS5taXJyYS5ub3cifQ==
 
 vless://d47c015a-2533-450d-8485-9154a58e046a@89.124.118.10:443?security=reality&encryption=none&pbk=ao6HM6jT7l8F-c54woAti7flDZW0GU0thRNKYzu9kQ0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=pypi.org&sid=57cc65bfd5ef7465#%F0%9F%87%B1%F0%9F%87%BB%20%F0%9F%A5%80v%C2%B9
 vless://d47c015a-2533-450d-8485-9154a58e046a@144.124.237.144:443?security=reality&encryption=none&pbk=ao6HM6jT7l8F-c54woAti7flDZW0GU0thRNKYzu9kQ0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=pypi.org&sid=57cc65bfd5ef7465#%F0%9F%87%B1%F0%9F%87%BB%20%F0%9F%A5%80v%C2%BD
