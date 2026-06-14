@@ -17,15 +17,7 @@ vless://d47c015a-2533-450d-8485-9154a58e046a@5.35.94.215:443?security=reality&en
 vless://d47c015a-2533-450d-8485-9154a58e046a@109.122.196.14:443?security=reality&encryption=none&pbk=BBm9mExvtYKuLNH7s5swStRFlKTpu2CSyNNrbOG21T4&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=57cc65bfd5ef7465#%F0%9F%87%B1%F0%9F%87%BB%20%F0%9F%A5%80v%E2%85%99
 vless://d47c015a-2533-450d-8485-9154a58e046a@138.124.32.113:443?security=reality&encryption=none&pbk=BBm9mExvtYKuLNH7s5swStRFlKTpu2CSyNNrbOG21T4&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=57cc65bfd5ef7465#%F0%9F%87%B1%F0%9F%87%BB%20%F0%9F%A5%80v%E2%85%90
 
-vless://71541332-8bb0-4895-bbf3-1f87660ebfd5@46.8.210.124:443?encryption=none&type=grpc&mode=gun&security=reality&sni=ns-weasel.perekrestok.ru&fp=ios&pbk=gtrtpte-RHVSDhWrlUSgD0kaDBUVfhvf6LcWTWTgcEU#🇪🇺 Глушилка test 1
 
-vless://71541332-8bb0-4895-bbf3-1f87660ebfd5@casto.ktell.net:8443?encryption=none&type=xhttp&mode=stream-one&security=tls&sni=casto.ktell.net&fp=chrome&alpn=h3#🇪🇺 Глушилка test 2
-
-hysteria2://o25ZpEFP5PpBgZKET0EItp@wazuh.ktell.net:63784-63884#🇪🇺 Глушилка test 3
-
-vless://71541332-8bb0-4895-bbf3-1f87660ebfd5@46.243.233.62:8443?encryption=none&type=grpc&mode=gun&security=tls&sni=vsflw.ktell.net&fp=qq#🇪🇺 Глушилка test 4
-
-hysteria2://oMfNNi5JJx2zopNxKXO7@mirage.flowwowdev.com:20000-50000#🇪🇺 Глушилка test 5
 
 vless://d4ad605c-64c2-4e01-a127-13478f59b473@185.229.9.58:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=firefox&pbk=kjTspDrisV8226wHoYmGlK3M3f5ti3J3SABdhRqAMCY&type=tcp#%F0%9F%87%AA%F0%9F%87%BA%20%D0%90%D0%BD%D1%82%D0%B8%D0%B3%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BA%D0%B0%201
 vless://d4ad605c-64c2-4e01-a127-13478f59b473@185.91.52.236:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=firefox&pbk=kjTspDrisV8226wHoYmGlK3M3f5ti3J3SABdhRqAMCY&type=tcp#%F0%9F%87%AA%F0%9F%87%BA%20%D0%90%D0%BD%D1%82%D0%B8%D0%B3%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BA%D0%B0%202
@@ -83,6 +75,14 @@ vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMS00MjAubWlycmEubm93IiwiYWlkIjoiMCIsImFs
 vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMS00MjAubWlycmEubm93IiwiYWlkIjoiMCIsImFscG4iOiJoMiIsImZwIjoiZmlyZWZveCIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMS00MjAubWlycmEubm93IiwiaWQiOiIwYTBlNzEzNy01MWQ2LTQ2MmEtOWU2OS1lODIzNGRmNzczNTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+Ht/Cfh7og0JDQvdGC0LjQt9Cw0LPQu9GD0YjQutCwIDQ0Iiwic2N5IjoiYXV0byIsInNuaSI6InJlbmRlcmVyLXN0cmVhbS0xLTQyMC5taXJyYS5ub3ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMS00MjAubWlycmEubm93IiwiYWlkIjoiMCIsImFscG4iOiJoMiIsImZwIjoiZmlyZWZveCIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMS00MjAubWlycmEubm93IiwiaWQiOiIwYTBlNzEzNy01MWQ2LTQ2MmEtOWU2OS1lODIzNGRmNzczNTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+Ht/Cfh7og0JDQvdGC0LjQt9Cw0LPQu9GD0YjQutCwIDQ1Iiwic2N5IjoiYXV0byIsInNuaSI6InJlbmRlcmVyLXN0cmVhbS0xLTQyMC5taXJyYS5ub3ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMS00MjAubWlycmEubm93IiwiYWlkIjoiMCIsImFscG4iOiJoMiIsImZwIjoiZmlyZWZveCIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMS00MjAubWlycmEubm93IiwiaWQiOiIwYTBlNzEzNy01MWQ2LTQ2MmEtOWU2OS1lODIzNGRmNzczNTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HqfCfh6og0JDQvdGC0LjQt9Cw0LPQu9GD0YjQutCwIDQ2Iiwic2N5IjoiYXV0byIsInNuaSI6InJlbmRlcmVyLXN0cmVhbS0xLTQyMC5taXJyYS5ub3ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+hysteria2://o25ZpEFP5PpBgZKET0EItp@wazuh.ktell.net:63784-63884#🇪🇺 Антизаглушка 47
+
+hysteria2://oMfNNi5JJx2zopNxKXO7@mirage.flowwowdev.com:20000-50000#🇪🇺 Антизаглушка 48
+
+vless://11b70131-4564-4a35-ba02-ecfb058be587@84.capycore.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=smartcaptcha.yandexcloud.net&pbk=RJtIKw17_0x-zmAL0vL4FrgeKqxHt2Faai-oSTBPmWI&sid=ef276a7580e24ac8&spx=/#🇩🇪 Антизаглушка 49
+
+vless://11b70131-4564-4a35-ba02-ecfb058be587@5.188.115.29:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=www.vk.com&pbk=fLBaSnICDNyn0zZ-YqzdnoE9ZrlXZ7F7bXH46WkuGEI&sid=a2668873387ce099&spx=/#🇷🇺 Антизаглушка 50
 
 vless://11b70131-4564-4a35-ba02-ecfb058be587@84n.capycore.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=yandex.ru&pbk=a-pxMyDrgkZ4eAM_I7k0mJiBn3AN0eyqeiSGtV03F1U&sid=d30f4e10dc056830&spx=/#🇷🇺 🎮 Игравой 📶 |1
 
