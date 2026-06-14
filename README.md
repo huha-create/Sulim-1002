@@ -83,12 +83,12 @@ vless://11b70131-4564-4a35-ba02-ecfb058be587@84.capycore.ru:443?flow=xtls-rprx-v
 
 vless://11b70131-4564-4a35-ba02-ecfb058be587@5.188.115.29:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=www.vk.com&pbk=fLBaSnICDNyn0zZ-YqzdnoE9ZrlXZ7F7bXH46WkuGEI&sid=a2668873387ce099&spx=/#🇷🇺 Антизаглушка 50
 
-vless://11b70131-4564-4a35-ba02-ecfb058be587@84n.capycore.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=yandex.ru&pbk=a-pxMyDrgkZ4eAM_I7k0mJiBn3AN0eyqeiSGtV03F1U&sid=d30f4e10dc056830&spx=/#🇷🇺 🎮 Игравой 📶 |1
+vless://11b70131-4564-4a35-ba02-ecfb058be587@84n.capycore.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=yandex.ru&pbk=a-pxMyDrgkZ4eAM_I7k0mJiBn3AN0eyqeiSGtV03F1U&sid=d30f4e10dc056830&spx=/#🇷🇺 🎮 Игровой 📶 |1
 
-vless://11b70131-4564-4a35-ba02-ecfb058be587@84n.capycore.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=max.ru&pbk=wi0mLRyP_rX2sM_uqvDeILAN7_2mDnZ4DmAlC4okjXQ&sid=ce1ad22ee3205e62&spx=/#🇷🇺 🎮 Игравой 📶 |2
+vless://11b70131-4564-4a35-ba02-ecfb058be587@84n.capycore.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=max.ru&pbk=wi0mLRyP_rX2sM_uqvDeILAN7_2mDnZ4DmAlC4okjXQ&sid=ce1ad22ee3205e62&spx=/#🇷🇺 🎮 Игровой 📶 |2
 
-vless://11b70131-4564-4a35-ba02-ecfb058be587@5.188.115.29:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=www.vk.com&pbk=fLBaSnICDNyn0zZ-YqzdnoE9ZrlXZ7F7bXH46WkuGEI&sid=a2668873387ce099&spx=/#🇷🇺 🎮 Игравой 📶 |3
+vless://11b70131-4564-4a35-ba02-ecfb058be587@5.188.115.29:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=www.vk.com&pbk=fLBaSnICDNyn0zZ-YqzdnoE9ZrlXZ7F7bXH46WkuGEI&sid=a2668873387ce099&spx=/#🇷🇺 🎮 Игровой 📶 |3
 
-vless://11b70131-4564-4a35-ba02-ecfb058be587@ct.capycore.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=www.vk.com&pbk=ZlXBEYDy1NPe1mLvq7j8CCB9fBIaIvc8X3UZsbVxNT8&sid=ae03e6ef452252e0&spx=/#🇷🇺 🎮 Игравой 📶 |4
+vless://11b70131-4564-4a35-ba02-ecfb058be587@ct.capycore.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=www.vk.com&pbk=ZlXBEYDy1NPe1mLvq7j8CCB9fBIaIvc8X3UZsbVxNT8&sid=ae03e6ef452252e0&spx=/#🇷🇺 🎮 Игровой 📶 |4
 
-vless://a1559242-25fd-475d-9d44-f2dbe716ed32@217.16.21.129:7444?type=tcp&security=reality&sni=eh.vk.com&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&flow=xtls-rprx-vision&fp=chrome#🇷🇺 🎮 Игравой 📶 |5
+vless://a1559242-25fd-475d-9d44-f2dbe716ed32@217.16.21.129:7444?type=tcp&security=reality&sni=eh.vk.com&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&flow=xtls-rprx-vision&fp=chrome#🇷🇺 🎮 Игровой 📶 |5
