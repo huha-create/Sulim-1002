@@ -7,15 +7,15 @@
 #profile-web-page-url: https://wa.me/79639864491
 happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
 
-vless://11b70131-4564-4a35-ba02-ecfb058be587@de.capynode.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=de.capynode.com&pbk=r7ACBvhcUVJq5CvRNaoFd8Lv3d4K-Puc42rYO2oLeh4&sid=a6d7841b71de3fec&spx=/#🇧🇼 Основной 
-vless://d47c015a-2533-450d-8485-9154a58e046a@89.124.118.10:443?security=reality&encryption=none&pbk=ao6HM6jT7l8F-c54woAti7flDZW0GU0thRNKYzu9kQ0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=pypi.org&sid=57cc65bfd5ef7465#%F0%9F%87%B1%F0%9F%87%BB%20%F0%9F%A5%80v%C2%B9
-vless://d47c015a-2533-450d-8485-9154a58e046a@144.124.237.144:443?security=reality&encryption=none&pbk=ao6HM6jT7l8F-c54woAti7flDZW0GU0thRNKYzu9kQ0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=pypi.org&sid=57cc65bfd5ef7465#%F0%9F%87%B1%F0%9F%87%BB%20%F0%9F%A5%80v%C2%BD
-vless://d47c015a-2533-450d-8485-9154a58e046a@89.124.117.39:443?security=reality&encryption=none&pbk=ao6HM6jT7l8F-c54woAti7flDZW0GU0thRNKYzu9kQ0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=pypi.org&sid=57cc65bfd5ef7465#%F0%9F%87%B1%F0%9F%87%BB%20%F0%9F%A5%80v%E2%85%93
-vless://d47c015a-2533-450d-8485-9154a58e046a@217.114.12.187:443?security=reality&encryption=none&pbk=olcTApVIdrdt_bsMJaLsZ-8bYR73oMNzgCZJuR_4sFA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dzen.ru&sid=7c83683ed7507a69#%F0%9F%87%B1%F0%9F%87%BB%20%F0%9F%A5%80v%C2%BC
-vless://d47c015a-2533-450d-8485-9154a58e046a@5.35.94.215:443?security=reality&encryption=none&pbk=olcTApVIdrdt_bsMJaLsZ-8bYR73oMNzgCZJuR_4sFA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dzen.ru&sid=7c83683ed7507a69#%F0%9F%87%B1%F0%9F%87%BB%20%F0%9F%A5%80v%E2%85%95
-vless://d47c015a-2533-450d-8485-9154a58e046a@109.122.196.14:443?security=reality&encryption=none&pbk=BBm9mExvtYKuLNH7s5swStRFlKTpu2CSyNNrbOG21T4&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=57cc65bfd5ef7465#%F0%9F%87%B1%F0%9F%87%BB%20%F0%9F%A5%80v%E2%85%99
-vless://d47c015a-2533-450d-8485-9154a58e046a@138.124.32.113:443?security=reality&encryption=none&pbk=BBm9mExvtYKuLNH7s5swStRFlKTpu2CSyNNrbOG21T4&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=57cc65bfd5ef7465#%F0%9F%87%B1%F0%9F%87%BB%20%F0%9F%A5%80v%E2%85%90
 
+vless://d47c015a-2533-450d-8485-9154a58e046a@217.114.12.187:443?security=reality&encryption=none&pbk=olcTApVIdrdt_bsMJaLsZ-8bYR73oMNzgCZJuR_4sFA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dzen.ru&sid=7c83683ed7507a69#🇱🇻 Основной🌐
+vless://d47c015a-2533-450d-8485-9154a58e046a@5.35.94.215:443?security=reality&encryption=none&pbk=olcTApVIdrdt_bsMJaLsZ-8bYR73oMNzgCZJuR_4sFA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dzen.ru&sid=7c83683ed7507a69#🇱🇻 Стабилбный 📊
+vless://d47c015a-2533-450d-8485-9154a58e046a@109.122.196.14:443?security=reality&encryption=none&pbk=BBm9mExvtYKuLNH7s5swStRFlKTpu2CSyNNrbOG21T4&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=57cc65bfd5ef7465#🇱🇻 Быстрый 📶
+vless://d47c015a-2533-450d-8485-9154a58e046a@138.124.32.113:443?security=reality&encryption=none&pbk=BBm9mExvtYKuLNH7s5swStRFlKTpu2CSyNNrbOG21T4&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=57cc65bfd5ef7465#🇱🇻 Запасной 🧩
+
+vless://d47c015a-2533-450d-8485-9154a58e046a@5.35.94.215:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=dzen.ru&pbk=olcTApVIdrdt_bsMJaLsZ-8bYR73oMNzgCZJuR_4sFA&sid=7c83683ed7507a69#%F0%9F%87%B9%F0%9F%87%B7%20%F0%9F%94%B4%20%D0%90%D0%BD%D1%82%D0%B8-%D1%80%D0%B5%D0%BA%20%20YouTube%20%7C%201?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
+
+vless://d47c015a-2533-450d-8485-9154a58e046a@217.114.12.187:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=dzen.ru&pbk=olcTApVIdrdt_bsMJaLsZ-8bYR73oMNzgCZJuR_4sFA&sid=7c83683ed7507a69#%F0%9F%87%B9%F0%9F%87%B7%20%F0%9F%94%B4%20%D0%90%D0%BD%D1%82%D0%B8-%D1%80%D0%B5%D0%BA%20%20YouTube%20%7C%202?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
 
 
 vless://d4ad605c-64c2-4e01-a127-13478f59b473@185.229.9.58:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=firefox&pbk=kjTspDrisV8226wHoYmGlK3M3f5ti3J3SABdhRqAMCY&type=tcp#%F0%9F%87%AA%F0%9F%87%BA%20%D0%90%D0%BD%D1%82%D0%B8%D0%B3%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BA%D0%B0%201
@@ -83,12 +83,3 @@ vless://11b70131-4564-4a35-ba02-ecfb058be587@84.capycore.ru:443?flow=xtls-rprx-v
 
 vless://11b70131-4564-4a35-ba02-ecfb058be587@5.188.115.29:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=www.vk.com&pbk=fLBaSnICDNyn0zZ-YqzdnoE9ZrlXZ7F7bXH46WkuGEI&sid=a2668873387ce099&spx=/#🇷🇺 Антизаглушка 50
 
-vless://a1559242-25fd-475d-9d44-f2dbe716ed32@217.16.21.108:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&type=tcp#🇷🇺 🎮 Игровой 📶 |1
-
-vless://a1559242-25fd-475d-9d44-f2dbe716ed32@217.16.21.129:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&type=tcp#🇷🇺 🎮 Игровой 📶 |2
-
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@109.236.57.66:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇷🇺 🎮 Игровой 📶 |3
-
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@109.236.57.72:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇷🇺 🎮 Игровой 📶 |4
-
-vless://a1559242-25fd-475d-9d44-f2dbe716ed32@217.16.21.129:7444?type=tcp&security=reality&sni=eh.vk.com&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&flow=xtls-rprx-vision&fp=chrome#🇷🇺 🎮 Игровой 📶 |5
