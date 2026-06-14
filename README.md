@@ -7,9 +7,8 @@
 #profile-web-page-url: https://wa.me/79639864491
 happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
 
-
-vmess://eyJuZXQiOiJ3cyIsImZwIjoiZmlyZWZveCIsImFscG4iOiJoMiIsInYiOiIyIiwicGF0aCI6IlwvYXBpXC92MVwvZ3B1LXN0cmVhbVwvc29ja2V0Iiwic2N5IjoiYXV0byIsImVjaGZxIjoibm9uZSIsImFsbG93SW5zZWN1cmUiOjAsInBvcnQiOiI0NDMiLCJ0bHMiOiJ0bHMiLCJob3N0IjoicmVuZGVyZXItc3RyZWFtLTEtNDM1Lm1pcnJhLm5vdyIsImlkIjoiZTYyZGFjZjAtOThmOS00ZjM2LTlkN2YtMGRmOTEyZmMzOGQ3IiwicHMiOiLwn4ez8J+HsdCe0YHQvdC+0LLQsCDwn5O2IiwiYWRkIjoicmVuZGVyZXItc3RyZWFtLTEtNDM1Lm1pcnJhLm5vdyIsInNuaSI6InJlbmRlcmVyLXN0cmVhbS0xLTQzNS5taXJyYS5ub3cifQ==
-
+vless://11b70131-4564-4a35-ba02-ecfb058be587@de.capynode.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=de.capynode.com&pbk=r7ACBvhcUVJq5CvRNaoFd8Lv3d4K-Puc42rYO2oLeh4&sid=a6d7841b71de3fec&spx=/#🇩🇪
+Основной 📶
 vless://d47c015a-2533-450d-8485-9154a58e046a@89.124.118.10:443?security=reality&encryption=none&pbk=ao6HM6jT7l8F-c54woAti7flDZW0GU0thRNKYzu9kQ0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=pypi.org&sid=57cc65bfd5ef7465#%F0%9F%87%B1%F0%9F%87%BB%20%F0%9F%A5%80v%C2%B9
 vless://d47c015a-2533-450d-8485-9154a58e046a@144.124.237.144:443?security=reality&encryption=none&pbk=ao6HM6jT7l8F-c54woAti7flDZW0GU0thRNKYzu9kQ0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=pypi.org&sid=57cc65bfd5ef7465#%F0%9F%87%B1%F0%9F%87%BB%20%F0%9F%A5%80v%C2%BD
 vless://d47c015a-2533-450d-8485-9154a58e046a@89.124.117.39:443?security=reality&encryption=none&pbk=ao6HM6jT7l8F-c54woAti7flDZW0GU0thRNKYzu9kQ0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=pypi.org&sid=57cc65bfd5ef7465#%F0%9F%87%B1%F0%9F%87%BB%20%F0%9F%A5%80v%E2%85%93
@@ -85,3 +84,12 @@ vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMS00MjAubWlycmEubm93IiwiYWlkIjoiMCIsImFs
 vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMS00MjAubWlycmEubm93IiwiYWlkIjoiMCIsImFscG4iOiJoMiIsImZwIjoiZmlyZWZveCIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMS00MjAubWlycmEubm93IiwiaWQiOiIwYTBlNzEzNy01MWQ2LTQ2MmEtOWU2OS1lODIzNGRmNzczNTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+Ht/Cfh7og0JDQvdGC0LjQt9Cw0LPQu9GD0YjQutCwIDQ1Iiwic2N5IjoiYXV0byIsInNuaSI6InJlbmRlcmVyLXN0cmVhbS0xLTQyMC5taXJyYS5ub3ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMS00MjAubWlycmEubm93IiwiYWlkIjoiMCIsImFscG4iOiJoMiIsImZwIjoiZmlyZWZveCIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMS00MjAubWlycmEubm93IiwiaWQiOiIwYTBlNzEzNy01MWQ2LTQ2MmEtOWU2OS1lODIzNGRmNzczNTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HqfCfh6og0JDQvdGC0LjQt9Cw0LPQu9GD0YjQutCwIDQ2Iiwic2N5IjoiYXV0byIsInNuaSI6InJlbmRlcmVyLXN0cmVhbS0xLTQyMC5taXJyYS5ub3ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
+vless://11b70131-4564-4a35-ba02-ecfb058be587@84n.capycore.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=yandex.ru&pbk=a-pxMyDrgkZ4eAM_I7k0mJiBn3AN0eyqeiSGtV03F1U&sid=d30f4e10dc056830&spx=/#🇷🇺 🎮 Игравой 📶 |1
+
+vless://11b70131-4564-4a35-ba02-ecfb058be587@84n.capycore.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=max.ru&pbk=wi0mLRyP_rX2sM_uqvDeILAN7_2mDnZ4DmAlC4okjXQ&sid=ce1ad22ee3205e62&spx=/#🇷🇺 🎮 Игравой 📶 |2
+
+vless://11b70131-4564-4a35-ba02-ecfb058be587@5.188.115.29:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=www.vk.com&pbk=fLBaSnICDNyn0zZ-YqzdnoE9ZrlXZ7F7bXH46WkuGEI&sid=a2668873387ce099&spx=/#🇷🇺 🎮 Игравой 📶 |3
+
+vless://11b70131-4564-4a35-ba02-ecfb058be587@ct.capycore.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=www.vk.com&pbk=ZlXBEYDy1NPe1mLvq7j8CCB9fBIaIvc8X3UZsbVxNT8&sid=ae03e6ef452252e0&spx=/#🇷🇺 🎮 Игравой 📶 |4
+
+vless://11b70131-4564-4a35-ba02-ecfb058be587@51n.capycore.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=www.vk.com&pbk=lM4aY7R07Gem9x-TKqvCuKcZSLuZU-_2lyZqxmQLHDs&sid=a9e95077bdf34209&spx=/#🇷🇺 🎮 Игравой 📶 |5
