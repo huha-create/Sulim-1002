@@ -7,6 +7,11 @@
 #profile-web-page-url: https://wa.me/79639864491
 happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
 
+vless://c5587985-ffde-4897-a7a6-d14009c868c0@89.124.118.10:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=pypi.org&pbk=ao6HM6jT7l8F-c54woAti7flDZW0GU0thRNKYzu9kQ0&sid=57cc65bfd5ef7465&spx=/#🇱🇻 Основной 
+
+vless://c5587985-ffde-4897-a7a6-d14009c868c0@144.124.237.144:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=pypi.org&pbk=ao6HM6jT7l8F-c54woAti7flDZW0GU0thRNKYzu9kQ0&sid=57cc65bfd5ef7465&spx=/#🇱🇻 Быстрый 📶
+
+vless://c5587985-ffde-4897-a7a6-d14009c868c0@89.124.117.39:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=pypi.org&pbk=ao6HM6jT7l8F-c54woAti7flDZW0GU0thRNKYzu9kQ0&sid=57cc65bfd5ef7465&spx=/#🇱🇻 Стабильный 
 
 vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@45.144.49.21:443?type=tcp&security=reality&sni=io.ozone.ru&pbk=vOBZiIASesLwYNJR_GtbS07G9ChcYjOgTVjqh6vq1GI&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1+%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
 vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@82.22.41.15:443?type=tcp&security=reality&sni=io.ozone.ru&pbk=vOBZiIASesLwYNJR_GtbS07G9ChcYjOgTVjqh6vq1GI&flow=xtls-rprx-vision&fp=randomized#%F0%9F%87%B5%F0%9F%87%B1+%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0+%E2%84%962
