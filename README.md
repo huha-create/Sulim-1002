@@ -23,19 +23,17 @@ vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@62.152.60.82:443?type=tcp&security=
 vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@62.152.58.116:443?type=tcp&security=reality&sni=eh.vk.com&pbk=kjTspDrisV8226wHoYmGlK3M3f5ti3J3SABdhRqAMCY&flow=xtls-rprx-vision&fp=firefox#🇪🇺 Антизаглушка 8
 vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@62.152.58.186:8443?type=tcp&security=reality&sni=eh.vk.com&pbk=kjTspDrisV8226wHoYmGlK3M3f5ti3J3SABdhRqAMCY&flow=xtls-rprx-vision&fp=firefox#🇪🇺 Антизаглушка 9
 
-trojan://832zBkhLJKRt3wQ10BZsycHfWM4v_g8z@46.8.208.17:9443?security=tls&headerType=none&fp=qq&type=tcp&sni=nl-test-1.hysteria.ltd#🇪🇺 Антизаглушка 10
+vless://a1559242-25fd-475d-9d44-f2dbe716ed32@217.16.21.129:7444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&type=tcp#🇳🇱 Антизаглушка 10
+vless://a1559242-25fd-475d-9d44-f2dbe716ed32@217.16.21.129:7445?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&type=tcp#🇳🇱 Антизаглушка 11
+hysteria2://a1559242-25fd-475d-9d44-f2dbe716ed32@217.16.21.108:47007?sni=test.mcufa.pro&alpn=h3&fingerprint=qq#🇩🇪 Антизаглушка 3
+hysteria2://a1559242-25fd-475d-9d44-f2dbe716ed32@217.16.21.129:47006?sni=test.mcufa.pro&alpn=h3&fingerprint=qq#🇳🇱 Антизаглушка 12
+hysteria2://a1559242-25fd-475d-9d44-f2dbe716ed32@217.16.21.129:47007?sni=test.mcufa.pro&alpn=h3&fingerprint=qq#🇳🇱 Антизаглушка 13
+hysteria2://a1559242-25fd-475d-9d44-f2dbe716ed32@217.16.21.108:47005?sni=test.mcufa.pro&alpn=h3&fingerprint=qq#🇷🇺 Антизаглушка 14
+hysteria2://a1559242-25fd-475d-9d44-f2dbe716ed32@217.16.21.129:47005?sni=test.mcufa.pro&alpn=h3&fingerprint=qq#🇷🇺 Антизаглушка 15
 
-trojan://832zBkhLJKRt3wQ10BZsycHfWM4v_g8z@46.8.208.17:9443?security=tls&headerType=none&fp=qq&type=tcp&sni=nl-test-1.hysteria.ltd#🇪🇺 Антизаглушка 11
+hysteria2://a1559242-25fd-475d-9d44-f2dbe716ed32@151.236.93.175:7443?sni=test.mcufa.pro&alpn=h3&fingerprint=chrome#🇰🇿 Антизаглушка 16
 
-vless://8e243b4c-6281-4b4b-b4fe-1ff5a9c63f39@gdg.herumhas.shop:5443?security=reality&encryption=none&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🇷🇺 Антизаглушка 12
 
-vless://8e243b4c-6281-4b4b-b4fe-1ff5a9c63f39@pro.herumhas.shop:5443?security=reality&encryption=none&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🇷🇺 Антизаглушка 13
-
-vless://8e243b4c-6281-4b4b-b4fe-1ff5a9c63f39@217.herumhas.shop:5443?security=reality&encryption=none&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🇷🇺 Антизаглушка 14
-
-vless://8e243b4c-6281-4b4b-b4fe-1ff5a9c63f39@217.herumhas.shop:5443?security=reality&encryption=none&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🇷🇺 Антизаглушка 15
-
-vless://1e5711b8-8f59-4f49-94cb-f17698ca2f71@195.133.198.249:19443?security=reality&encryption=none&pbk=QGlJtT7TdXFaIctNpsvykWqAgTR3VCq3Z0H94-QKHDc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru#🇵🇱 Антизаглушка 16
 
 vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMS00MjAubWlycmEubm93IiwiYWlkIjoiMCIsImFscG4iOiJoMiIsImZwIjoiZmlyZWZveCIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMS00MjAubWlycmEubm93IiwiaWQiOiIwYTBlNzEzNy01MWQ2LTQ2MmEtOWU2OS1lODIzNGRmNzczNTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HqfCfh6og0JDQvdGC0LjQt9Cw0LPQu9GD0YjQutCwIDE3Iiwic2N5IjoiYXV0byIsInNuaSI6InJlbmRlcmVyLXN0cmVhbS0xLTQyMC5taXJyYS5ub3ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMS00MjAubWlycmEubm93IiwiYWlkIjoiMCIsImFscG4iOiJoMiIsImZwIjoiZmlyZWZveCIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMS00MjAubWlycmEubm93IiwiaWQiOiIwYTBlNzEzNy01MWQ2LTQ2MmEtOWU2OS1lODIzNGRmNzczNTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+Hq/Cfh7cg0JDQvdGC0LjQt9Cw0LPQu9GD0YjQutCwIDE4Iiwic2N5IjoiYXV0byIsInNuaSI6InJlbmRlcmVyLXN0cmVhbS0xLTQyMC5taXJyYS5ub3ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
