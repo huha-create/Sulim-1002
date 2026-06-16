@@ -7,12 +7,7 @@
 #profile-web-page-url: https://wa.me/79639864491
 happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
 
-vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@91.92.33.117:443?type=tcp&security=reality&sni=eh.vk.com&pbk=vOBZiIASesLwYNJR_GtbS07G9ChcYjOgTVjqh6vq1GI&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F+
-vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@194.107.126.214:443?type=tcp&security=reality&sni=eh.vk.com&pbk=vOBZiIASesLwYNJR_GtbS07G9ChcYjOgTVjqh6vq1GI&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F+%E2%84%962
-vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@45.145.40.162:443?type=tcp&security=reality&sni=eh.vk.com&pbk=vOBZiIASesLwYNJR_GtbS07G9ChcYjOgTVjqh6vq1GI&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F+%E2%84%963
-vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@194.48.217.176:443?type=tcp&security=reality&sni=eh.vk.com&pbk=vOBZiIASesLwYNJR_GtbS07G9ChcYjOgTVjqh6vq1GI&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F+%E2%84%964
-vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@95.85.241.175:443?type=tcp&security=reality&sni=eh.vk.com&pbk=vOBZiIASesLwYNJR_GtbS07G9ChcYjOgTVjqh6vq1GI&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA+%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F+%E2%84%963
-vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@64.188.81.233:443?type=tcp&security=reality&sni=eh.vk.com&pbk=vOBZiIASesLwYNJR_GtbS07G9ChcYjOgTVjqh6vq1GI&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA+%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F+%E2%84%964
+
 vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@45.144.49.21:443?type=tcp&security=reality&sni=io.ozone.ru&pbk=vOBZiIASesLwYNJR_GtbS07G9ChcYjOgTVjqh6vq1GI&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1+%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
 vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@82.22.41.15:443?type=tcp&security=reality&sni=io.ozone.ru&pbk=vOBZiIASesLwYNJR_GtbS07G9ChcYjOgTVjqh6vq1GI&flow=xtls-rprx-vision&fp=randomized#%F0%9F%87%B5%F0%9F%87%B1+%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0+%E2%84%962
 vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@82.22.41.14:443?type=tcp&security=reality&sni=io.ozone.ru&pbk=vOBZiIASesLwYNJR_GtbS07G9ChcYjOgTVjqh6vq1GI&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1+%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0+%E2%84%963
