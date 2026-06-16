@@ -7,18 +7,26 @@
 #profile-web-page-url: https://wa.me/79639864491
 happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
 
-vless://d47c015a-2533-450d-8485-9154a58e046a@109.122.196.14:443?security=reality&encryption=none&pbk=BBm9mExvtYKuLNH7s5swStRFlKTpu2CSyNNrbOG21T4&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=57cc65bfd5ef7465#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9A%AB%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%7C%201%3FserverDescription%3D0L3QtdGCINC30LDQs9C70YPRiNC60Lg%3D
-vless://d47c015a-2533-450d-8485-9154a58e046a@138.124.32.113:443?security=reality&encryption=none&pbk=BBm9mExvtYKuLNH7s5swStRFlKTpu2CSyNNrbOG21T4&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=57cc65bfd5ef7465#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9A%AB%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%7C%202%3FserverDescription%3D0L3QtdGCINC30LDQs9C70YPRiNC60Lg%3D
-vless://d47c015a-2533-450d-8485-9154a58e046a@89.124.118.10:443?security=reality&encryption=none&pbk=ao6HM6jT7l8F-c54woAti7flDZW0GU0thRNKYzu9kQ0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=pypi.org&sid=57cc65bfd5ef7465#%F0%9F%87%B3%F0%9F%87%B1%20%E2%9A%AA%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%7C%201%3FserverDescription%3D0L3QtdGCINC30LDQs9C70YPRiNC60Lg%3D
-vless://d47c015a-2533-450d-8485-9154a58e046a@144.124.237.144:443?security=reality&encryption=none&pbk=ao6HM6jT7l8F-c54woAti7flDZW0GU0thRNKYzu9kQ0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=pypi.org&sid=57cc65bfd5ef7465#%F0%9F%87%B3%F0%9F%87%B1%20%E2%9A%AA%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%7C%202%3FserverDescription%3D0L3QtdGCINC30LDQs9C70YPRiNC60Lg%3D
-
-vless://d47c015a-2533-450d-8485-9154a58e046a@5.35.94.215:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=dzen.ru&pbk=olcTApVIdrdt_bsMJaLsZ-8bYR73oMNzgCZJuR_4sFA&sid=7c83683ed7507a69#%F0%9F%87%B9%F0%9F%87%B7%20%F0%9F%94%B4%20%D0%90%D0%BD%D1%82%D0%B8-%D1%80%D0%B5%D0%BA%20%20YouTube%20%7C%201?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
-
-vless://d47c015a-2533-450d-8485-9154a58e046a@217.114.12.187:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=dzen.ru&pbk=olcTApVIdrdt_bsMJaLsZ-8bYR73oMNzgCZJuR_4sFA&sid=7c83683ed7507a69#%F0%9F%87%B9%F0%9F%87%B7%20%F0%9F%94%B4%20%D0%90%D0%BD%D1%82%D0%B8-%D1%80%D0%B5%D0%BA%20%20YouTube%20%7C%202?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
-
-
-
-
+vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@91.92.33.117:443?type=tcp&security=reality&sni=eh.vk.com&pbk=vOBZiIASesLwYNJR_GtbS07G9ChcYjOgTVjqh6vq1GI&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F+
+vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@194.107.126.214:443?type=tcp&security=reality&sni=eh.vk.com&pbk=vOBZiIASesLwYNJR_GtbS07G9ChcYjOgTVjqh6vq1GI&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F+%E2%84%962
+vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@45.145.40.162:443?type=tcp&security=reality&sni=eh.vk.com&pbk=vOBZiIASesLwYNJR_GtbS07G9ChcYjOgTVjqh6vq1GI&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F+%E2%84%963
+vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@194.48.217.176:443?type=tcp&security=reality&sni=eh.vk.com&pbk=vOBZiIASesLwYNJR_GtbS07G9ChcYjOgTVjqh6vq1GI&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F+%E2%84%964
+vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@95.85.241.175:443?type=tcp&security=reality&sni=eh.vk.com&pbk=vOBZiIASesLwYNJR_GtbS07G9ChcYjOgTVjqh6vq1GI&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA+%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F+%E2%84%963
+vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@64.188.81.233:443?type=tcp&security=reality&sni=eh.vk.com&pbk=vOBZiIASesLwYNJR_GtbS07G9ChcYjOgTVjqh6vq1GI&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA+%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F+%E2%84%964
+vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@45.144.49.21:443?type=tcp&security=reality&sni=io.ozone.ru&pbk=vOBZiIASesLwYNJR_GtbS07G9ChcYjOgTVjqh6vq1GI&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1+%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
+vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@82.22.41.15:443?type=tcp&security=reality&sni=io.ozone.ru&pbk=vOBZiIASesLwYNJR_GtbS07G9ChcYjOgTVjqh6vq1GI&flow=xtls-rprx-vision&fp=randomized#%F0%9F%87%B5%F0%9F%87%B1+%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0+%E2%84%962
+vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@82.22.41.14:443?type=tcp&security=reality&sni=io.ozone.ru&pbk=vOBZiIASesLwYNJR_GtbS07G9ChcYjOgTVjqh6vq1GI&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1+%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0+%E2%84%963
+vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@193.160.209.254:443?type=tcp&security=reality&sni=io.ozone.ru&pbk=vOBZiIASesLwYNJR_GtbS07G9ChcYjOgTVjqh6vq1GI&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA+%D0%AE%D1%82%D1%83%D0%B1+%D0%B1%D0%B5%D0%B7+%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B+
+vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@92.119.164.129:443?type=tcp&security=reality&sni=eh.vk.com&pbk=vOBZiIASesLwYNJR_GtbS07G9ChcYjOgTVjqh6vq1GI&flow=xtls-rprx-vision&fp=randomized#%F0%9F%87%B3%F0%9F%87%B1+%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
+vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@167.148.201.41:443?type=tcp&security=reality&sni=eh.vk.com&pbk=vOBZiIASesLwYNJR_GtbS07G9ChcYjOgTVjqh6vq1GI&flow=xtls-rprx-vision&fp=firefox#🇪🇺 Антизаглушка 1
+vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@186.246.4.217:443?type=tcp&security=reality&sni=google.com&pbk=kjTspDrisV8226wHoYmGlK3M3f5ti3J3SABdhRqAMCY&flow=xtls-rprx-vision&fp=firefox#🇪🇺 Антизаглушка 2
+vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@5.178.85.11:443?type=tcp&security=reality&sni=eh.vk.com&pbk=kjTspDrisV8226wHoYmGlK3M3f5ti3J3SABdhRqAMCY&flow=xtls-rprx-vision&fp=randomized#🇪🇺 Антизаглушка 3
+vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@185.91.52.236:443?type=tcp&security=reality&sni=eh.vk.com&pbk=kjTspDrisV8226wHoYmGlK3M3f5ti3J3SABdhRqAMCY&flow=xtls-rprx-vision&fp=firefox#🇪🇺 Антизаглушка 4
+vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@185.229.9.58:443?type=tcp&security=reality&sni=eh.vk.com&pbk=kjTspDrisV8226wHoYmGlK3M3f5ti3J3SABdhRqAMCY&flow=xtls-rprx-vision&fp=firefox#🇪🇺 Антизаглушка 5
+vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@62.152.58.111:443?type=tcp&security=reality&sni=sun1-87.userapi.com&pbk=kjTspDrisV8226wHoYmGlK3M3f5ti3J3SABdhRqAMCY&flow=xtls-rprx-vision&fp=firefox#🇪🇺 Антизаглушка 6
+vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@62.152.60.82:443?type=tcp&security=reality&sni=eh.vk.com&pbk=kjTspDrisV8226wHoYmGlK3M3f5ti3J3SABdhRqAMCY&flow=xtls-rprx-vision&fp=firefox#🇪🇺 Антизаглушка 7
+vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@62.152.58.116:443?type=tcp&security=reality&sni=eh.vk.com&pbk=kjTspDrisV8226wHoYmGlK3M3f5ti3J3SABdhRqAMCY&flow=xtls-rprx-vision&fp=firefox#🇪🇺 Антизаглушка 8
+vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@62.152.58.186:8443?type=tcp&security=reality&sni=eh.vk.com&pbk=kjTspDrisV8226wHoYmGlK3M3f5ti3J3SABdhRqAMCY&flow=xtls-rprx-vision&fp=firefox#🇪🇺 Антизаглушка 9
 
 trojan://832zBkhLJKRt3wQ10BZsycHfWM4v_g8z@46.8.208.17:9443?security=tls&headerType=none&fp=qq&type=tcp&sni=nl-test-1.hysteria.ltd#🇪🇺 Антизаглушка 10
 
