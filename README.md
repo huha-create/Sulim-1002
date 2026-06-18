@@ -42,6 +42,16 @@ vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@62.152.58.186:8443?type=tcp&securit
 
 vless://b2ef9bc4-531a-4bcc-b645-4566518e998c@81.163.23.158:443?type=grpc&security=reality&sni=api-maps.yandex.ru&pbk=KVTjNm2wdY8qhZGllmxdYD2u5AhHk6lEpR8ALqPoWxc&fp=chrome#🇪🇺%20Антиглушилка
 
+vless://f5518b09-4fd2-47cc-9fbf-b2608592dece@livede.stardevs.top:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=livede.stardevs.top&pbk=8ZDyVH5Lwp7L_sP1A-e_M6JliKYYM-oi2FrGqTzNyRw&sid=f37fb7531c60780d&spx=/#🇪🇺 Антиглушилка
+
+vless://f5518b09-4fd2-47cc-9fbf-b2608592dece@plnews.stardevs.top:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=plnews.stardevs.top&pbk=4zIDa5UtUKEwHdT7ycmag1QN0LHRIwy0fSd0i5SJojk&sid=f37fb7531c60780d&spx=/#🇪🇺 Антиглушилка
+
+vless://f5518b09-4fd2-47cc-9fbf-b2608592dece@plnews2.stardevs.top:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=plnews2.stardevs.top&pbk=5aV5JOproSFJydvCgPTPTh0Ow5s7dOl9nQO6tlP4sHM&sid=f37fb7531c60780d&spx=/#🇪🇺 Антиглушилка
+
+vless://f5518b09-4fd2-47cc-9fbf-b2608592dece@livemws.stardevs.top:443?type=xhttp&host=livemws.stardevs.top&path=/api&mode=packet-up&security=tls&sni=livemws.stardevs.top&alpn=h2&fp=qq&allowInsecure=0#🇪🇺 Антиглушилка
+
+vless://f5518b09-4fd2-47cc-9fbf-b2608592dece@mwsnew.stardevs.top:443?type=xhttp&host=mwsnew.stardevs.top&path=/api&mode=packet-up&security=tls&sni=mwsnew.stardevs.top&alpn=h2&fp=qq&allowInsecure=0#🇪🇺 Антиглушилка
+
 vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMS00MjAubWlycmEubm93IiwiYWlkIjoiMCIsImFscG4iOiJoMiIsImZwIjoiZmlyZWZveCIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMS00MjAubWlycmEubm93IiwiaWQiOiIwYTBlNzEzNy01MWQ2LTQ2MmEtOWU2OS1lODIzNGRmNzczNTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+Ht/Cfh7og0JDQvdGC0LjQs9C70YPRiNC40LvQutCwIDEiLCJzY3kiOiJhdXRvIiwic25pIjoicmVuZGVyZXItc3RyZWFtLTEtNDIwLm1pcnJhLm5vdyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMS00MjAubWlycmEubm93IiwiYWlkIjoiMCIsImFscG4iOiJoMiIsImZwIjoiZmlyZWZveCIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMS00MjAubWlycmEubm93IiwiaWQiOiIwYTBlNzEzNy01MWQ2LTQ2MmEtOWU2OS1lODIzNGRmNzczNTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+Ht/Cfh7og0JDQvdGC0LjQs9C70YPRiNC40LvQutCwIDIiLCJzY3kiOiJhdXRvIiwic25pIjoicmVuZGVyZXItc3RyZWFtLTEtNDIwLm1pcnJhLm5vdyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMS00MjAubWlycmEubm93IiwiYWlkIjoiMCIsImFscG4iOiJoMiIsImZwIjoiZmlyZWZveCIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMS00MjAubWlycmEubm93IiwiaWQiOiIwYTBlNzEzNy01MWQ2LTQ2MmEtOWU2OS1lODIzNGRmNzczNTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HqfCfh6og0JDQvdGC0LjQs9C70YPRiNC40LvQutCwIDMiLCJzY3kiOiJhdXRvIiwic25pIjoicmVuZGVyZXItc3RyZWFtLTEtNDIwLm1pcnJhLm5vdyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
