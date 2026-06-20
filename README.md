@@ -7,7 +7,11 @@
 #profile-web-page-url: https://wa.me/79639864491
 happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
 
+hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443?sni=usa1.spectrumproxy.shop&alpn=h3#🇳🇱 Тестирование ⚡️1
 
+vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@0w7ymj.spectrum.vu:443?type=grpc&security=reality&sni=0w7ymj.spectrum.vu&pbk=ckd_LwbbFo8BYf9vT84B20P6EL1n6vl2yMxoXc6X4SA&fp=firefox#🇫🇮 Тестирование ⚡️2
+
+vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@india.spectrum.vu:443?type=tcp&security=reality&sni=india.spectrum.vu&pbk=gGMmvAp58U4orEaNLVAIXaADTUGvpljoaCFf_eF9AzE&flow=xtls-rprx-vision&fp=firefox#🇩🇪 Тестирование ⚡️3
 
 hysteria2://44915238-6f99-4ab2-a71a-6d901d76eeff@germany1.noesissite.ru:443?security=tls&fm=%7B%7D&allowinsecure=0&sni=germany1.noesissite.ru#%F0%9F%87%B3%F0%9F%87%B1+%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9+%E2%9A%A1?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
 hysteria2://44915238-6f99-4ab2-a71a-6d901d76eeff@nland1.noesissite.ru:443?security=tls&fm=%7B%7D&allowinsecure=0&sni=nland1.noesissite.ru#%F0%9F%87%B7%F0%9F%87%BA+%D0%97%D0%B0%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D0%B9+%F0%9F%94%97?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
