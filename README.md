@@ -14,6 +14,8 @@ vless://fca847d0-2cbb-441e-9ae9-1f7dcc58424f@nl.srv.anti-zapret.com:443?encrypti
 vless://fca847d0-2cbb-441e-9ae9-1f7dcc58424f@pl.srv.anti-zapret.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pl.srv.anti-zapret.com&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=17faf32cb516c9cb&type=tcp#🇩🇪 Тестирование ⚡️3
 
 vless://fca847d0-2cbb-441e-9ae9-1f7dcc58424f@sw.srv.anti-zapret.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sw.srv.anti-zapret.com&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=17faf32cb516c9cb&type=tcp#🇱🇻 Тестирование ⚡️4
+
+vless://fca847d0-2cbb-441e-9ae9-1f7dcc58424f@pl.srv.anti-zapret.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pl.srv.anti-zapret.com&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=17faf32cb516c9cb&type=tcp#🇵🇱 Тестирование ⚡️5
 hysteria2://44915238-6f99-4ab2-a71a-6d901d76eeff@germany1.noesissite.ru:443?security=tls&fm=%7B%7D&allowinsecure=0&sni=germany1.noesissite.ru#%F0%9F%87%B3%F0%9F%87%B1+%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9+%E2%9A%A1?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
 hysteria2://44915238-6f99-4ab2-a71a-6d901d76eeff@nland1.noesissite.ru:443?security=tls&fm=%7B%7D&allowinsecure=0&sni=nland1.noesissite.ru#%F0%9F%87%B7%F0%9F%87%BA+%D0%97%D0%B0%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D0%B9+%F0%9F%94%97?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
 hysteria2://44915238-6f99-4ab2-a71a-6d901d76eeff@germany1.noesissite.ru:443?security=tls&fm=%7B%7D&allowinsecure=0&sni=germany1.noesissite.ru#%F0%9F%87%A9%F0%9F%87%AA+%D0%97%D0%B0%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D0%B9+%F0%9F%94%97?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
