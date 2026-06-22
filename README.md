@@ -8,6 +8,8 @@
 happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
 vless://c5587985-ffde-4897-a7a6-d14009c868c0@109.122.196.14:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=addons.mozilla.org&pbk=BBm9mExvtYKuLNH7s5swStRFlKTpu2CSyNNrbOG21T4&sid=57cc65bfd5ef7465&spx=/#🇳🇱 Основной 🌐
 
+vless://4baef6d6-bcb7-4ad2-b43a-b1968c0fe007@m6hd7wzq-rk49pf.ee.vk-proxy.com:23334?encryption=none&security=reality&sni=m6hd7wzq-rk49pf.ee.vk-proxy.com&pbk=Od_cAeJaWbvrI5P69twS_ZNWgZpU8Id6yZX4dZ6TJiU&sid=076f18cb71115c1e&fp=random&type=grpc&serviceName=grpc#🇪🇺 Запасной ⚔️
+
 vless://a65ef66b-a582-40e4-af07-dfb4e2d905c9@5.188.224.129:3478?encryption=none&flow=xtls-rprx-vision&security=reality&sni=payment-widget.plus.kinopoisk.ru&pbk=5rarCwWIE6vDLCyip5C66PYDsm7ETZ9V4LQR34dfuGA&sid=6ba85179e30d4fc2&type=tcp#🇮🇹 WhatsApp | 1
 
 vless://a65ef66b-a582-40e4-af07-dfb4e2d905c9@45.139.27.106:58888?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=oPb9QJL_Mys7JtX3P3O8Jygw511Z-M1Z3CL33nBL7wk&sid=6ba85179e30d4fc2&type=tcp#🇦🇪 WhatsApp | 2
