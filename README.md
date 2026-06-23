@@ -7,6 +7,9 @@
 #profile-web-page-url: https://wa.me/79639864491
 happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
 
+vless://861fd825-3828-4bc6-a48e-8295f357b6c7@158.160.191.91:443?security=reality&encryption=none&echfq=none&pbk=6QIHdF1dvSK8mDPOeWXvGIqJmZ2ySq5fyc7N15h1WFE&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rezerv8.yunus.guru&sid=34256b39b4ebb864#%F0%9F%87%B3%F0%9F%87%B1++%D0%90%D0%BD%D1%82%D0%B8%D0%B7%D0%B0%D0%B3%D0%BB%D1%83%D1%88%D0%BA%D0%B0+%F0%9F%9B%A0%EF%B8%8F?serverDescription=0KLQtdGB0YIg0LrQvtC90YTQuNCz0YPRgNCw0YbQuNC4
+
+
 vless://861fd825-3828-4bc6-a48e-8295f357b6c7@rezerv16.yunus.guru:443?security=reality&encryption=none&echfq=none&pbk=WeeUf6jO26pDN580rmz6kmZ5Y-S-eF76iWOMYK1HvDg&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rezerv16.yunus.guru&sid=e6f15c51340a6691#%F0%9F%87%AA%F0%9F%87%BA+%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9+%E2%9A%A1?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
 vless://861fd825-3828-4bc6-a48e-8295f357b6c7@rezerv17.yunus.guru:443?security=reality&encryption=none&echfq=none&pbk=_5KQWficxpTFTYpHG-PpKpN99XL8H0vwOyg2XBMhVn8&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rezerv17.yunus.guru&sid=ef3d5a5ce1127092#%F0%9F%87%AA%F0%9F%87%BA+%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2+%F0%9F%94%97?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
 vless://861fd825-3828-4bc6-a48e-8295f357b6c7@rezerv18.yunus.guru:443?security=reality&encryption=none&echfq=none&pbk=jLa4bn_ZuTamBSUdxQCJJI1seX1TvPQDKB5u7rzbcG4&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rezerv18.yunus.guru&sid=ce92dfd666224477#%F0%9F%87%AA%F0%9F%87%BA+%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2+%F0%9F%94%97?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
@@ -14,12 +17,12 @@ vless://861fd825-3828-4bc6-a48e-8295f357b6c7@rezerv19.yunus.guru:443?security=re
 vless://861fd825-3828-4bc6-a48e-8295f357b6c7@rezerv21.yunus.guru:443?security=reality&encryption=none&echfq=none&pbk=Qsx1iAU8A1meJ2Pz8QbEcX1iGckyw4f6-mxZ3ZyJ8HI&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rezerv21.yunus.guru&sid=e2b15b73af31a6a4#%F0%9F%87%AA%F0%9F%87%BA+%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2+%F0%9F%94%97?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
 vless://861fd825-3828-4bc6-a48e-8295f357b6c7@rezerv20.yunus.guru:443?security=reality&encryption=none&echfq=none&pbk=GF61aR_em1Xb3bNpwaO86PMEsAi4tuNfinnTDnrC4CE&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rezerv20.yunus.guru&sid=664d93f83ca49830#%F0%9F%87%AA%F0%9F%87%BA+%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2+%F0%9F%94%97?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
 
-vless://861fd825-3828-4bc6-a48e-8295f357b6c7@158.160.191.91:443?security=reality&encryption=none&echfq=none&pbk=6QIHdF1dvSK8mDPOeWXvGIqJmZ2ySq5fyc7N15h1WFE&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rezerv8.yunus.guru&sid=34256b39b4ebb864#%F0%9F%87%B3%F0%9F%87%B1++%D0%90%D0%BD%D1%82%D0%B8%D0%B7%D0%B0%D0%B3%D0%BB%D1%83%D1%88%D0%BA%D0%B0+%F0%9F%9B%A0%EF%B8%8F?serverDescription=0KLQtdGB0YIg0LrQvtC90YTQuNCz0YPRgNCw0YbQuNC4
 
 
-vless://c5587985-ffde-4897-a7a6-d14009c868c0@109.122.196.14:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=addons.mozilla.org&pbk=BBm9mExvtYKuLNH7s5swStRFlKTpu2CSyNNrbOG21T4&sid=57cc65bfd5ef7465&spx=/#🇳🇱 Основной 🌐
 
-vless://4baef6d6-bcb7-4ad2-b43a-b1968c0fe007@m6hd7wzq-rk49pf.ee.vk-proxy.com:23334?encryption=none&security=reality&sni=m6hd7wzq-rk49pf.ee.vk-proxy.com&pbk=Od_cAeJaWbvrI5P69twS_ZNWgZpU8Id6yZX4dZ6TJiU&sid=076f18cb71115c1e&fp=random&type=grpc&serviceName=grpc#🇪🇺 Запасной ⚔️
+vless://c5587985-ffde-4897-a7a6-d14009c868c0@109.122.196.14:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=addons.mozilla.org&pbk=BBm9mExvtYKuLNH7s5swStRFlKTpu2CSyNNrbOG21T4&sid=57cc65bfd5ef7465&spx=/#%F0%9F%87%AA%F0%9F%87%BA+%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2+%F0%9F%94%97?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
+
+vless://4baef6d6-bcb7-4ad2-b43a-b1968c0fe007@m6hd7wzq-rk49pf.ee.vk-proxy.com:23334?encryption=none&security=reality&sni=m6hd7wzq-rk49pf.ee.vk-proxy.com&pbk=Od_cAeJaWbvrI5P69twS_ZNWgZpU8Id6yZX4dZ6TJiU&sid=076f18cb71115c1e&fp=random&type=grpc&serviceName=grpc#%F0%9F%87%AA%F0%9F%87%BA+%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2+%F0%9F%94%97?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
 
 vless://a65ef66b-a582-40e4-af07-dfb4e2d905c9@5.188.224.129:3478?encryption=none&flow=xtls-rprx-vision&security=reality&sni=payment-widget.plus.kinopoisk.ru&pbk=5rarCwWIE6vDLCyip5C66PYDsm7ETZ9V4LQR34dfuGA&sid=6ba85179e30d4fc2&type=tcp#🇮🇹 WhatsApp | 1
 
