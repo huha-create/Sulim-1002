@@ -13,6 +13,8 @@ vless://861fd825-3828-4bc6-a48e-8295f357b6c7@rezerv16.yunus.guru:443?security=re
 vless://861fd825-3828-4bc6-a48e-8295f357b6c7@rezerv17.yunus.guru:443?security=reality&encryption=none&echfq=none&pbk=_5KQWficxpTFTYpHG-PpKpN99XL8H0vwOyg2XBMhVn8&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rezerv17.yunus.guru&sid=ef3d5a5ce1127092#%F0%9F%87%A9%F0%9F%87%AA+%D0%97%D0%B0%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D0%B9+%E2%9A%A1?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
 
 
+vless://e7edcdf4-aa97-4b31-8c78-8b5791eba656@rf1.helper-internet.com:443?security=reality&encryption=none&echfq=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rf1.helper-internet.com&sid=ff776ff77be48b88#%F0%9F%87%B3%F0%9F%87%B1+YouTube+%D0%B1%D0%B5%D0%B7+%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
+vless://e7edcdf4-aa97-4b31-8c78-8b5791eba656@alban2.helper-internet.com:443?security=reality&encryption=none&echfq=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=alban2.helper-internet.com&sid=ff776ff77be48b88#%F0%9F%87%B1%F0%9F%87%BB+YouTube+%D0%B1%D0%B5%D0%B7+%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
 
 
 
