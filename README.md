@@ -9,8 +9,8 @@ happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
 
 
 
-vless://d47c015a-2533-450d-8485-9154a58e046a@144.124.237.144:443?security=reality&encryption=none&echfq=none&pbk=ao6HM6jT7l8F-c54woAti7flDZW0GU0thRNKYzu9kQ0&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=pypi.org&sid=57cc65bfd5ef7465#%F0%9F%87%B3%F0%9F%87%B1+%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9+%F0%9F%9A%80?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
-vless://d47c015a-2533-450d-8485-9154a58e046a@138.124.32.113:443?security=reality&encryption=none&echfq=none&pbk=BBm9mExvtYKuLNH7s5swStRFlKTpu2CSyNNrbOG21T4&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=57cc65bfd5ef7465#%F0%9F%87%A9%F0%9F%87%AA+%D0%97%D0%B0%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D0%B9+%E2%9A%A1?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
+vless://0ff0f0ed-b59e-464d-bb41-7f2f353e13ce@87.199.200.30:8090?encryption=none&security=none&type=ws&host=rukr.speedload.ru&path=%2Fws#%F0%9F%87%B3%F0%9F%87%B1+%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9+%F0%9F%9A%80?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
+vless://0ff0f0ed-b59e-464d-bb41-7f2f353e13ce@109.107.173.97:8090?encryption=none&security=none&type=ws&host=rukr.speedload.ru&path=%2Fws#%F0%9F%87%A9%F0%9F%87%AA+%D0%97%D0%B0%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D0%B9+%E2%9A%A1?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
 
 
 vless://e7edcdf4-aa97-4b31-8c78-8b5791eba656@rf1.helper-internet.com:443?security=reality&encryption=none&echfq=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rf1.helper-internet.com&sid=ff776ff77be48b88#%F0%9F%87%B3%F0%9F%87%B1+YouTube+%D0%B1%D0%B5%D0%B7+%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
