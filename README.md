@@ -26,7 +26,9 @@ vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@cz.freeinternat.com:443?flow=xtls-r
 vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@ang.freeinternat.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ang.freeinternat.com&fp=firefox&echfq=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=%2F&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
 vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@lit.freeinternat.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=lit.freeinternat.com&fp=firefox&echfq=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=%2F&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%B1%F0%9F%87%B9%20%D0%9B%D0%B8%D1%82%D0%B2%D0%B0?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
 
+vless://4baef6d6-bcb7-4ad2-b43a-b1968c0fe007@t8k3xq9v-bz1mw74.ru.vk-proxy.com:7624?type=grpc&security=reality&encryption=none&sni=ads.x5.ru&pbk=dSpj0HvYNa72YZ9Zmx2LxMOlZmR7UY71-C_V2Nm5VRI&sid=5f9ad8de32066565&fp=qq&serviceName=grpc#🇷🇺 Игровой 🎮
 
+vless://4baef6d6-bcb7-4ad2-b43a-b1968c0fe007@t8k3xq9v-bz1mw74.ru.vk-proxy.com:7624?type=grpc&security=reality&encryption=none&sni=ads.x5.ru&pbk=dSpj0HvYNa72YZ9Zmx2LxMOlZmR7UY71-C_V2Nm5VRI&sid=5f9ad8de32066565&fp=qq&serviceName=grpc#🇷🇺 Игровой 🎮
 
 
 
